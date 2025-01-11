@@ -1,0 +1,2 @@
+sl_id_1,1692308571.3825276,Sell,market,27112.0,26892.9,-219.1,0.065,122.0,OnlyRapidWithTakerBoundary,5.3846078
+sl_id_2,1692313081.1075258,Buy,limit,26911.0,26916.2,5.2,0.065,121.5,OnlyRapidWithTakerBoundary,0.1821706

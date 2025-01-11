@@ -1,0 +1,19 @@
+2023-02-15 20:00:03,481 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:00:03,748 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99997 retries remain.
+2023-02-15 20:00:04,016 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99996 retries remain.
+2023-02-15 20:06:13,406 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:08:43,566 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:11:38,370 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:21:58,378 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:30:02,912 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:31:00,561 ERROR returning None and ignoring error: order not exists or too late to repalce (ErrCode: 20001).
+2023-02-15 20:32:13,433 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:37:01,643 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:40:50,686 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 20:50:00,653 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 21:00:02,279 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 21:00:02,545 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99997 retries remain.
+2023-02-15 21:00:02,813 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99996 retries remain.
+2023-02-15 21:00:03,079 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99995 retries remain.
+2023-02-15 21:18:12,385 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.
+2023-02-15 21:20:19,886 ERROR HTTPSConnectionPool(host='api.bybit.com', port=443): Read timed out. (read timeout=0.25). 99998 retries remain.

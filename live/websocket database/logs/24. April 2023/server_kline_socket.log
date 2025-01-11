@@ -1,0 +1,48 @@
+@ 2023-02-23 21:58:17.690548 -> server started
+@ 2023-02-23 21:58:58.564284 -> new client at kline_socket
+@ 2023-02-23 21:58:58.564455 -> connection to DoSe4582 established
+@ 2023-02-23 22:15:51.443508 -> new client at kline_socket
+@ 2023-02-23 22:15:51.443673 -> connection to DoSe4502 established
+@ 2023-02-23 22:18:37.572863 -> new client at kline_socket
+@ 2023-02-23 22:18:37.573031 -> connection to DoSe2186 established
+@ 2023-02-23 22:22:44.050780 -> new client at kline_socket
+@ 2023-02-23 22:22:44.050955 -> connection to DoSe2185 established
+@ 2023-02-23 22:26:10.227816 -> new client at kline_socket
+@ 2023-02-23 22:26:10.227987 -> connection to DoSe2182 established
+@ 2023-02-28 04:39:01.533151 -> client DoSe2182 offline
+@ 2023-02-28 04:39:01.534678 -> client DoSe2185 offline
+@ 2023-02-28 04:39:01.536256 -> client DoSe2186 offline
+@ 2023-02-28 04:39:01.537819 -> client DoSe4502 offline
+@ 2023-02-28 04:39:01.539391 -> client DoSe4582 offline
+@ 2023-02-28 07:52:58.963429 -> new client at kline_socket
+@ 2023-02-28 07:52:58.963643 -> connection to DoSe2182 established
+@ 2023-02-28 07:59:21.485671 -> new client at kline_socket
+@ 2023-02-28 07:59:21.485857 -> connection to DoSe2185 established
+@ 2023-02-28 08:05:49.671727 -> new client at kline_socket
+@ 2023-02-28 08:05:49.671906 -> connection to DoSe2186 established
+@ 2023-02-28 08:10:31.329088 -> new client at kline_socket
+@ 2023-02-28 08:10:31.329293 -> connection to DoSe4502 established
+@ 2023-02-28 08:15:38.424712 -> new client at kline_socket
+@ 2023-02-28 08:15:38.424971 -> connection to DoSe4582 established
+@ 2023-03-03 01:23:00.265311 -> client DoSe4502 offline
+@ 2023-03-03 04:04:54.136291 -> new client at kline_socket
+@ 2023-03-03 04:04:54.136469 -> connection to DoSe68685 established
+@ 2023-03-03 05:07:00.261731 -> client DoSe2186 offline
+@ 2023-03-05 17:59:00.251119 -> client DoSe68685 offline
+@ 2023-03-05 18:05:14.032186 -> new client at kline_socket
+@ 2023-03-05 18:05:14.032364 -> connection to DoSe68685 established
+@ 2023-04-19 14:16:01.089210 -> client DoSe68685 offline
+@ 2023-04-19 19:42:03.848213 -> new client at kline_socket
+@ 2023-04-19 19:42:03.848482 -> connection to DoSe68685 established
+@ 2023-04-19 20:57:01.090942 -> client DoSe68685 offline
+@ 2023-04-19 20:58:44.371145 -> new client at kline_socket
+@ 2023-04-19 20:58:44.371334 -> connection to DoSe68685 established
+@ 2023-04-19 21:01:01.090211 -> client DoSe68685 offline
+@ 2023-04-19 21:13:31.029310 -> new client at kline_socket
+@ 2023-04-19 21:13:31.029532 -> connection to DoSe68685 established
+@ 2023-04-19 21:16:00.088752 -> client DoSe68685 offline
+@ 2023-04-19 21:51:27.076041 -> new client at kline_socket
+@ 2023-04-19 21:51:27.076305 -> connection to DoSe68685 established
+@ 2023-04-24 11:01:00.089687 -> client DoSe68685 offline
+@ 2023-04-24 11:01:00.090000 -> client DoSe4582 offline
+@ 2023-04-24 11:01:00.090301 -> client DoSe2182 offline

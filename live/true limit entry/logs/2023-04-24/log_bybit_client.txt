@@ -1,0 +1,35 @@
+@ 2023-02-28 08:16:10.000000 -> Initialization Started
+@ 2023-02-28 08:16:11.000000 -> Initialization Finished
+@ 2023-02-28 08:16:11.000000 -> Starting Bot. All Parameters:
+@ 2023-02-28 08:16:11.000000 -> daily_iqr_inputs: (7, 1440)
+@ 2023-02-28 08:16:11.000000 -> sma length(): 20
+@ 2023-02-28 08:16:11.000000 -> take_profit_distance_multiplier: 0.2
+@ 2023-02-28 08:16:11.000000 -> stop_loss_distance_multiplier: 1
+@ 2023-04-24 11:00:25.000000 -> Starting termination
+@ 2023-04-24 11:00:26.000000 -> Exception:
+Traceback (most recent call last):
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 77, in run_everything
+    raise thread_B.exception()
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 54, in thread__strategy
+    strategy.strategy_main()
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 337, in strategy_main
+    cPT = create_PositionTrade(t+(time_frame*60))
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 125, in create_PositionTrade
+    limit_entry_result = position_trade.place_both_entrys()
+  File "/home/DoSe4582/strategy_execution/../market_insertion/filling_and_orders_manager.py", line 297, in place_both_entrys
+    filling_state = __check_fill_entry_order()
+  File "/home/DoSe4582/strategy_execution/../market_insertion/filling_and_orders_manager.py", line 252, in __check_fill_entry_order
+    self.final_entry_filled_size = bybit_usdt_perp_client.get_filled_size(self.final_entry_order_id)
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 901, in get_filled_size
+    __query_order_into_collection(order_id)
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 1114, in __query_order_into_collection
+    order = usdt_perp_rest_client.query_active_order(symbol=market_name, order_link_id=order_id)
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 250, in query_active_order
+    return self._submit_request(
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/_http_manager.py", line 322, in _submit_request
+    raise FailedRequestError(
+Bybit_Access._exceptions.FailedRequestError: You have breached the ip rate limit. (ErrCode: 403) (ErrTime: 11:00:25).
+Request → GET https://api.bybit.com/private/linear/order/search: {'api_key': 'BFZPDDYNMBDBKMYBEK', 'order_link_id': 'mvrYGFb9ZjfAWSKgNcYunjo3DT1lYje6NcRT', 'recv_window': 250, 'symbol': 'BTCUSDT', 'timestamp': 1682334025557, 'sign': '28519d9be8c2b4c7a04b02df9b6edf6a4a63927eb5532d7ef8b29347015ee667'}.
+

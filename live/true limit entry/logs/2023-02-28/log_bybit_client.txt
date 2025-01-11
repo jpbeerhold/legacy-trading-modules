@@ -1,0 +1,26 @@
+@ 2023-02-23 21:59:10 -> Initialization Started
+@ 2023-02-23 21:59:11 -> Initialization Finished
+@ 2023-02-23 21:59:11 -> Starting Bot. All Parameters:
+@ 2023-02-23 21:59:11 -> daily_iqr_inputs: (7, 1440)
+@ 2023-02-23 21:59:11 -> sma length(): 20
+@ 2023-02-23 21:59:11 -> take_profit_distance_multiplier: 0.2
+@ 2023-02-23 21:59:11 -> stop_loss_distance_multiplier: 1
+@ 2023-02-28 04:40:10 -> did not receive candle
+@ 2023-02-28 04:40:10 -> Starting termination
+@ 2023-02-28 04:40:10 -> Starting termination
+@ 2023-02-28 04:40:11 -> Exception:
+Traceback (most recent call last):
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 77, in run_everything
+    raise thread_B.exception()
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 54, in thread__strategy
+    strategy.strategy_main()
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 336, in strategy_main
+    cPT = create_PositionTrade(t+(time_frame*60))
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 81, in create_PositionTrade
+    bybit_usdt_perp_client.terminate_bot()
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 1233, in terminate_bot
+    sys.exit()
+SystemExit
+

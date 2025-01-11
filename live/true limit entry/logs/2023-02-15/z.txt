@@ -1,0 +1,425 @@
+sma: 23223.90479849469
+average_iqr: 222.35000000000113
+temp fragment length: 562
+{'last_price': 23272.6, 'ask_price': 23272.6, 'bid_price': 23272.5, 'time': '2023-02-15 19:58:11'}
+
+sma: 23223.90479849469
+average_iqr: 222.35000000000113
+temp fragment length: 562
+{'last_price': 23276.7, 'ask_price': 23276.8, 'bid_price': 23276.7, 'time': '2023-02-15 19:58:30'}
+
+sma: 23226.554558569955
+average_iqr: 222.35000000000113
+temp fragment length: 563
+{'last_price': 23271.4, 'ask_price': 23271.8, 'bid_price': 23271.7, 'time': '2023-02-15 19:59:30'}
+
+sma: 23230.636830641455
+average_iqr: 222.35000000000113
+temp fragment length: 564
+{'last_price': 23295.8, 'ask_price': 23295.8, 'bid_price': 23295.7, 'time': '2023-02-15 20:00:30'}
+
+sma: 23233.694989109383
+average_iqr: 222.35000000000113
+temp fragment length: 565
+{'last_price': 23314.1, 'ask_price': 23314.2, 'bid_price': 23314.1, 'time': '2023-02-15 20:01:30'}
+
+sma: 23237.620239653912
+average_iqr: 222.35000000000113
+temp fragment length: 566
+{'last_price': 23368.7, 'ask_price': 23368.7, 'bid_price': 23368.6, 'time': '2023-02-15 20:02:30'}
+
+sma: 23242.424227671218
+average_iqr: 222.35000000000113
+temp fragment length: 567
+{'last_price': 23321.2, 'ask_price': 23321.3, 'bid_price': 23321.2, 'time': '2023-02-15 20:03:30'}
+
+sma: 23248.518016287657
+average_iqr: 222.35000000000113
+temp fragment length: 568
+{'last_price': 23351.0, 'ask_price': 23351.1, 'bid_price': 23351.0, 'time': '2023-02-15 20:04:30'}
+
+sma: 23253.407115473274
+average_iqr: 222.35000000000113
+temp fragment length: 569
+{'last_price': 23363.9, 'ask_price': 23364.0, 'bid_price': 23363.9, 'time': '2023-02-15 20:05:30'}
+
+sma: 23258.97675969961
+average_iqr: 222.35000000000113
+temp fragment length: 570
+{'last_price': 23391.5, 'ask_price': 23391.6, 'bid_price': 23391.5, 'time': '2023-02-15 20:06:30'}
+
+sma: 23264.77292171463
+average_iqr: 222.35000000000113
+temp fragment length: 571
+{'last_price': 23379.8, 'ask_price': 23379.8, 'bid_price': 23379.7, 'time': '2023-02-15 20:07:30'}
+
+sma: 23271.6392756289
+average_iqr: 222.35000000000113
+temp fragment length: 572
+{'last_price': 23452.0, 'ask_price': 23452.1, 'bid_price': 23452.0, 'time': '2023-02-15 20:08:30'}
+
+sma: 23283.027311847454
+average_iqr: 222.35000000000113
+temp fragment length: 573
+{'last_price': 23543.8, 'ask_price': 23543.9, 'bid_price': 23543.8, 'time': '2023-02-15 20:09:30'}
+
+sma: 23295.63094625508
+average_iqr: 222.35000000000113
+temp fragment length: 574
+{'last_price': 23566.2, 'ask_price': 23566.2, 'bid_price': 23566.1, 'time': '2023-02-15 20:10:30'}
+
+sma: 23308.199398942328
+average_iqr: 222.35000000000113
+temp fragment length: 575
+{'last_price': 23592.9, 'ask_price': 23593.0, 'bid_price': 23592.9, 'time': '2023-02-15 20:11:30'}
+
+sma: 23324.76442899521
+average_iqr: 222.35000000000113
+temp fragment length: 576
+{'last_price': 23685.5, 'ask_price': 23685.6, 'bid_price': 23685.5, 'time': '2023-02-15 20:12:30'}
+
+sma: 23343.22620754545
+average_iqr: 222.35000000000113
+temp fragment length: 577
+{'last_price': 23692.5, 'ask_price': 23692.5, 'bid_price': 23692.4, 'time': '2023-02-15 20:13:30'}
+
+sma: 23355.73489716818
+average_iqr: 222.35000000000113
+temp fragment length: 578
+{'last_price': 23632.9, 'ask_price': 23632.9, 'bid_price': 23632.8, 'time': '2023-02-15 20:14:30'}
+
+sma: 23369.378152309768
+average_iqr: 222.35000000000113
+temp fragment length: 579
+{'last_price': 23650.6, 'ask_price': 23650.6, 'bid_price': 23650.5, 'time': '2023-02-15 20:15:30'}
+
+sma: 23384.07924469428
+average_iqr: 222.35000000000113
+temp fragment length: 580
+{'last_price': 23697.3, 'ask_price': 23697.4, 'bid_price': 23697.3, 'time': '2023-02-15 20:16:30'}
+
+sma: 23402.045282459567
+average_iqr: 222.35000000000113
+temp fragment length: 581
+{'last_price': 23729.8, 'ask_price': 23729.9, 'bid_price': 23729.8, 'time': '2023-02-15 20:17:30'}
+
+sma: 23417.223018336586
+average_iqr: 222.35000000000113
+temp fragment length: 582
+{'last_price': 23717.1, 'ask_price': 23717.1, 'bid_price': 23717.0, 'time': '2023-02-15 20:18:29'}
+
+sma: 23431.59186741976
+average_iqr: 222.35000000000113
+temp fragment length: 583
+{'last_price': 23707.7, 'ask_price': 23707.8, 'bid_price': 23707.7, 'time': '2023-02-15 20:19:29'}
+
+sma: 23445.95227404877
+average_iqr: 222.35000000000113
+temp fragment length: 584
+{'last_price': 23781.1, 'ask_price': 23781.1, 'bid_price': 23781.0, 'time': '2023-02-15 20:20:30'}
+
+sma: 23462.459660346332
+average_iqr: 222.35000000000113
+temp fragment length: 585
+{'last_price': 23833.4, 'ask_price': 23833.4, 'bid_price': 23833.3, 'time': '2023-02-15 20:21:30'}
+
+sma: 23478.281677329014
+average_iqr: 222.35000000000113
+temp fragment length: 586
+{'last_price': 23741.9, 'ask_price': 23742.0, 'bid_price': 23741.9, 'time': '2023-02-15 20:22:30'}
+
+sma: 23493.147593462563
+average_iqr: 222.35000000000113
+temp fragment length: 587
+{'last_price': 23783.7, 'ask_price': 23783.8, 'bid_price': 23783.7, 'time': '2023-02-15 20:23:30'}
+
+sma: 23507.990213789435
+average_iqr: 222.35000000000113
+temp fragment length: 588
+{'last_price': 23758.5, 'ask_price': 23758.6, 'bid_price': 23758.5, 'time': '2023-02-15 20:24:29'}
+
+sma: 23522.300703099965
+average_iqr: 222.35000000000113
+temp fragment length: 589
+{'last_price': 23783.5, 'ask_price': 23783.5, 'bid_price': 23783.4, 'time': '2023-02-15 20:25:30'}
+
+sma: 23534.725667944967
+average_iqr: 222.35000000000113
+temp fragment length: 590
+{'last_price': 23787.3, 'ask_price': 23787.3, 'bid_price': 23787.2, 'time': '2023-02-15 20:26:30'}
+
+sma: 23548.829384547716
+average_iqr: 222.35000000000113
+temp fragment length: 591
+{'last_price': 23812.5, 'ask_price': 23812.6, 'bid_price': 23812.5, 'time': '2023-02-15 20:27:29'}
+
+sma: 23561.592915320332
+average_iqr: 222.35000000000113
+temp fragment length: 592
+{'last_price': 23800.0, 'ask_price': 23800.1, 'bid_price': 23800.0, 'time': '2023-02-15 20:28:30'}
+
+sma: 23572.188269554317
+average_iqr: 222.35000000000113
+temp fragment length: 593
+{'last_price': 23799.1, 'ask_price': 23799.1, 'bid_price': 23799.0, 'time': '2023-02-15 20:29:29'}
+
+sma: 23584.1988560766
+average_iqr: 222.35000000000113
+temp fragment length: 594
+{'last_price': 23840.1, 'ask_price': 23840.1, 'bid_price': 23840.0, 'time': '2023-02-15 20:30:30'}
+
+sma: 23597.97391327277
+average_iqr: 222.35000000000113
+temp fragment length: 595
+{'last_price': 23908.1, 'ask_price': 23908.1, 'bid_price': 23908.0, 'time': '2023-02-15 20:31:30'}
+
+sma: 23615.980217609133
+average_iqr: 222.35000000000113
+temp fragment length: 596
+{'last_price': 24090.5, 'ask_price': 24090.5, 'bid_price': 24090.4, 'time': '2023-02-15 20:32:30'}
+
+sma: 23636.251206728673
+average_iqr: 222.35000000000113
+temp fragment length: 597
+{'last_price': 24051.6, 'ask_price': 24051.7, 'bid_price': 24051.6, 'time': '2023-02-15 20:33:30'}
+
+sma: 23658.10364639224
+average_iqr: 222.35000000000113
+temp fragment length: 598
+{'last_price': 24160.7, 'ask_price': 24160.8, 'bid_price': 24160.7, 'time': '2023-02-15 20:34:30'}
+
+sma: 23687.848464072627
+average_iqr: 222.35000000000113
+temp fragment length: 599
+{'last_price': 24172.6, 'ask_price': 24172.6, 'bid_price': 24172.5, 'time': '2023-02-15 20:35:30'}
+
+sma: 23710.526040868997
+average_iqr: 222.35000000000113
+temp fragment length: 600
+{'last_price': 24144.1, 'ask_price': 24144.1, 'bid_price': 24144.0, 'time': '2023-02-15 20:36:30'}
+
+sma: 23727.13473882555
+average_iqr: 222.35000000000113
+temp fragment length: 601
+{'last_price': 23968.0, 'ask_price': 23969.3, 'bid_price': 23969.2, 'time': '2023-02-15 20:37:30'}
+
+sma: 23743.45800188427
+average_iqr: 222.35000000000113
+temp fragment length: 602
+{'last_price': 24090.0, 'ask_price': 24088.4, 'bid_price': 24088.3, 'time': '2023-02-15 20:38:30'}
+
+sma: 23763.685101790055
+average_iqr: 222.35000000000113
+temp fragment length: 603
+{'last_price': 24120.7, 'ask_price': 24120.8, 'bid_price': 24120.7, 'time': '2023-02-15 20:39:30'}
+
+sma: 23779.125846700554
+average_iqr: 222.35000000000113
+temp fragment length: 604
+{'last_price': 24118.9, 'ask_price': 24119.0, 'bid_price': 24118.9, 'time': '2023-02-15 20:40:30'}
+
+sma: 23794.029554365527
+average_iqr: 222.35000000000113
+temp fragment length: 605
+{'last_price': 24024.7, 'ask_price': 24024.7, 'bid_price': 24024.6, 'time': '2023-02-15 20:41:30'}
+
+sma: 23807.92307664725
+average_iqr: 222.35000000000113
+temp fragment length: 606
+{'last_price': 24067.8, 'ask_price': 24067.9, 'bid_price': 24067.8, 'time': '2023-02-15 20:42:29'}
+
+sma: 23820.596922814886
+average_iqr: 222.35000000000113
+temp fragment length: 607
+{'last_price': 24073.2, 'ask_price': 24073.3, 'bid_price': 24073.2, 'time': '2023-02-15 20:43:30'}
+
+sma: 23832.302076674143
+average_iqr: 222.35000000000113
+temp fragment length: 608
+{'last_price': 24036.2, 'ask_price': 24036.3, 'bid_price': 24036.2, 'time': '2023-02-15 20:44:30'}
+
+sma: 23842.931972840437
+average_iqr: 222.35000000000113
+temp fragment length: 609
+{'last_price': 24081.1, 'ask_price': 24081.8, 'bid_price': 24081.7, 'time': '2023-02-15 20:45:29'}
+
+sma: 23853.020374198415
+average_iqr: 222.35000000000113
+temp fragment length: 610
+{'last_price': 24056.1, 'ask_price': 24056.1, 'bid_price': 24056.0, 'time': '2023-02-15 20:46:30'}
+
+sma: 23863.289355488494
+average_iqr: 222.35000000000113
+temp fragment length: 611
+{'last_price': 24082.9, 'ask_price': 24082.9, 'bid_price': 24082.8, 'time': '2023-02-15 20:47:30'}
+
+sma: 23876.30988771407
+average_iqr: 222.35000000000113
+temp fragment length: 612
+{'last_price': 24131.5, 'ask_price': 24134.1, 'bid_price': 24134.0, 'time': '2023-02-15 20:48:30'}
+
+sma: 23889.749393328366
+average_iqr: 222.35000000000113
+temp fragment length: 613
+{'last_price': 24098.9, 'ask_price': 24099.0, 'bid_price': 24098.9, 'time': '2023-02-15 20:49:30'}
+
+sma: 23900.026923661946
+average_iqr: 222.35000000000113
+temp fragment length: 614
+{'last_price': 24083.3, 'ask_price': 24083.3, 'bid_price': 24083.2, 'time': '2023-02-15 20:50:30'}
+
+sma: 23908.88557747885
+average_iqr: 222.35000000000113
+temp fragment length: 615
+{'last_price': 24049.9, 'ask_price': 24050.0, 'bid_price': 24049.9, 'time': '2023-02-15 20:51:29'}
+
+sma: 23916.781298604907
+average_iqr: 222.35000000000113
+temp fragment length: 616
+{'last_price': 24094.2, 'ask_price': 24094.3, 'bid_price': 24094.2, 'time': '2023-02-15 20:52:30'}
+
+sma: 23925.487233674663
+average_iqr: 222.35000000000113
+temp fragment length: 617
+{'last_price': 24110.2, 'ask_price': 24110.3, 'bid_price': 24110.2, 'time': '2023-02-15 20:53:30'}
+
+sma: 23934.85287199093
+average_iqr: 222.35000000000113
+temp fragment length: 618
+{'last_price': 24126.4, 'ask_price': 24126.4, 'bid_price': 24126.3, 'time': '2023-02-15 20:54:30'}
+
+sma: 23945.310228391383
+average_iqr: 222.35000000000113
+temp fragment length: 619
+{'last_price': 24129.6, 'ask_price': 24132.0, 'bid_price': 24131.9, 'time': '2023-02-15 20:55:30'}
+
+sma: 23955.049716971815
+average_iqr: 222.35000000000113
+temp fragment length: 620
+{'last_price': 24105.3, 'ask_price': 24105.3, 'bid_price': 24105.2, 'time': '2023-02-15 20:56:30'}
+
+sma: 23961.72223112322
+average_iqr: 222.35000000000113
+temp fragment length: 621
+{'last_price': 24119.6, 'ask_price': 24119.7, 'bid_price': 24119.6, 'time': '2023-02-15 20:57:29'}
+
+sma: 23968.90111956706
+average_iqr: 222.35000000000113
+temp fragment length: 622
+{'last_price': 24130.2, 'ask_price': 24130.4, 'bid_price': 24130.3, 'time': '2023-02-15 20:58:30'}
+
+sma: 23976.95106358871
+average_iqr: 222.35000000000113
+temp fragment length: 623
+{'last_price': 24148.0, 'ask_price': 24148.1, 'bid_price': 24148.0, 'time': '2023-02-15 20:59:30'}
+
+sma: 23985.39851040927
+average_iqr: 222.35000000000113
+temp fragment length: 624
+{'last_price': 24147.9, 'ask_price': 24148.0, 'bid_price': 24147.9, 'time': '2023-02-15 21:00:29'}
+
+sma: 23991.41358488881
+average_iqr: 222.35000000000113
+temp fragment length: 625
+{'last_price': 24135.9, 'ask_price': 24135.9, 'bid_price': 24135.8, 'time': '2023-02-15 21:01:29'}
+
+sma: 23998.51290564437
+average_iqr: 222.35000000000113
+temp fragment length: 626
+{'last_price': 24084.5, 'ask_price': 24084.6, 'bid_price': 24084.5, 'time': '2023-02-15 21:02:29'}
+
+sma: 24003.18726036215
+average_iqr: 222.35000000000113
+temp fragment length: 627
+{'last_price': 24105.3, 'ask_price': 24105.3, 'bid_price': 24105.2, 'time': '2023-02-15 21:03:29'}
+
+sma: 24007.37289734404
+average_iqr: 222.35000000000113
+temp fragment length: 628
+{'last_price': 24092.8, 'ask_price': 24095.2, 'bid_price': 24095.1, 'time': '2023-02-15 21:04:30'}
+
+sma: 24011.98925247684
+average_iqr: 222.35000000000113
+temp fragment length: 629
+{'last_price': 24123.3, 'ask_price': 24123.4, 'bid_price': 24123.3, 'time': '2023-02-15 21:05:29'}
+
+sma: 24017.839789853
+average_iqr: 222.35000000000113
+temp fragment length: 630
+{'last_price': 24111.1, 'ask_price': 24111.2, 'bid_price': 24111.1, 'time': '2023-02-15 21:06:29'}
+
+sma: 24021.82780036035
+average_iqr: 222.35000000000113
+temp fragment length: 631
+{'last_price': 24099.4, 'ask_price': 24099.4, 'bid_price': 24099.3, 'time': '2023-02-15 21:07:30'}
+
+sma: 24026.46141034233
+average_iqr: 222.35000000000113
+temp fragment length: 632
+{'last_price': 24130.0, 'ask_price': 24130.0, 'bid_price': 24129.9, 'time': '2023-02-15 21:08:30'}
+
+sma: 24030.143339825216
+average_iqr: 222.35000000000113
+temp fragment length: 633
+{'last_price': 24098.1, 'ask_price': 24098.1, 'bid_price': 24098.0, 'time': '2023-02-15 21:09:29'}
+
+sma: 24033.486172833953
+average_iqr: 222.35000000000113
+temp fragment length: 634
+{'last_price': 24117.2, 'ask_price': 24117.3, 'bid_price': 24117.2, 'time': '2023-02-15 21:10:30'}
+
+sma: 24036.276864192256
+average_iqr: 222.35000000000113
+temp fragment length: 635
+{'last_price': 24076.6, 'ask_price': 24076.6, 'bid_price': 24076.5, 'time': '2023-02-15 21:11:29'}
+
+sma: 24037.368020982645
+average_iqr: 222.35000000000113
+temp fragment length: 636
+{'last_price': 24045.0, 'ask_price': 24045.1, 'bid_price': 24045.0, 'time': '2023-02-15 21:12:30'}
+
+sma: 24037.47961993351
+average_iqr: 222.35000000000113
+temp fragment length: 637
+{'last_price': 24024.9, 'ask_price': 24025.0, 'bid_price': 24024.9, 'time': '2023-02-15 21:13:30'}
+
+sma: 24037.390638936835
+average_iqr: 222.35000000000113
+temp fragment length: 638
+{'last_price': 24050.1, 'ask_price': 24050.1, 'bid_price': 24050.0, 'time': '2023-02-15 21:14:30'}
+
+sma: 24038.336106989995
+average_iqr: 222.35000000000113
+temp fragment length: 639
+{'last_price': 24088.0, 'ask_price': 24088.1, 'bid_price': 24088.0, 'time': '2023-02-15 21:15:30'}
+
+sma: 24040.964301640495
+average_iqr: 222.35000000000113
+temp fragment length: 640
+{'last_price': 24088.0, 'ask_price': 24088.0, 'bid_price': 24087.9, 'time': '2023-02-15 21:16:29'}
+
+sma: 24042.81108655847
+average_iqr: 222.35000000000113
+temp fragment length: 641
+{'last_price': 24079.9, 'ask_price': 24080.0, 'bid_price': 24079.9, 'time': '2023-02-15 21:17:30'}
+
+sma: 24044.195532230548
+average_iqr: 222.35000000000113
+temp fragment length: 642
+{'last_price': 24094.0, 'ask_price': 24094.1, 'bid_price': 24094.0, 'time': '2023-02-15 21:18:30'}
+
+sma: 24046.79075561902
+average_iqr: 222.35000000000113
+temp fragment length: 643
+{'last_price': 24097.8, 'ask_price': 24097.8, 'bid_price': 24097.7, 'time': '2023-02-15 21:19:29'}
+
+sma: 24048.90121783807
+average_iqr: 222.35000000000113
+temp fragment length: 644
+{'last_price': 24143.5, 'ask_price': 24143.5, 'bid_price': 24143.4, 'time': '2023-02-15 21:20:30'}
+
+sma: 24052.176156946163
+average_iqr: 222.35000000000113
+temp fragment length: 645
+{'last_price': 24121.5, 'ask_price': 24122.0, 'bid_price': 24121.9, 'time': '2023-02-15 21:21:29'}
+

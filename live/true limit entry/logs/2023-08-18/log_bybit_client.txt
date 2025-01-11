@@ -1,0 +1,27 @@
+@ 2023-08-01 15:08:10.036107 -> Initialization Started
+@ 2023-08-01 15:08:11.308497 -> Initialization Finished
+@ 2023-08-01 15:08:11.308541 -> Starting Bot. All Parameters:
+@ 2023-08-01 15:08:11.308581 -> distance_percent: 1.5
+@ 2023-08-01 15:08:11.308616 -> sma length(): 20
+@ 2023-08-01 15:08:11.308650 -> stop_loss_distance_multiplier: 1
+@ 2023-08-01 15:08:11.308685 -> take_profit_distance_multiplier: 0.2
+@ 2023-08-01 15:08:11.308720 -> daily_iqr_inputs: (7, 1440)
+@ 2023-08-01 15:08:11.308754 -> timestamp_vola_iqr_avg_empty_fragment: 1585132500
+@ 2023-08-01 15:08:11.308787 -> number_back_use_close: 0
+@ 2023-08-18 02:46:10.000089 -> did not receive candle
+@ 2023-08-18 02:46:10.000619 -> Starting termination
+@ 2023-08-18 02:46:10.728293 -> Starting termination
+@ 2023-08-18 02:46:11.398395 -> Exception:
+Traceback (most recent call last):
+  File "/home/DoSe/BTCUSDT/4582/strategy_execution/strategy_exe_DoSe4582.py", line 90, in run_everything
+    raise thread_B.exception()
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/DoSe/BTCUSDT/4582/strategy_execution/strategy_exe_DoSe4582.py", line 62, in thread__strategy
+    strategy.strategy_main()
+  File "/home/DoSe/BTCUSDT/4582/strategy_execution/../strategy_execution/strategy.py", line 327, in strategy_main
+    cPT = create_PositionTrade(t+(time_frame*60))
+  File "/home/DoSe/BTCUSDT/4582/strategy_execution/../strategy_execution/strategy.py", line 77, in create_PositionTrade
+    raise
+RuntimeError: No active exception to reraise
+

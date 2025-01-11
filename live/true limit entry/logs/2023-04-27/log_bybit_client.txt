@@ -1,0 +1,31 @@
+@ 2023-04-24 14:07:10.000000 -> Initialization Started
+@ 2023-04-24 14:07:11.000000 -> Initialization Finished
+@ 2023-04-24 14:07:11.000000 -> Starting Bot. All Parameters:
+@ 2023-04-24 14:07:11.000000 -> daily_iqr_inputs: (7, 1440)
+@ 2023-04-24 14:07:11.000000 -> sma length(): 20
+@ 2023-04-24 14:07:11.000000 -> take_profit_distance_multiplier: 0.2
+@ 2023-04-24 14:07:11.000000 -> stop_loss_distance_multiplier: 1
+@ 2023-04-26 20:12:00.000000 -> Starting termination
+@ 2023-04-26 20:12:01.000000 -> Exception:
+Traceback (most recent call last):
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 77, in run_everything
+    raise thread_B.exception()
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/DoSe4582/strategy_execution/strategy_exe_DoSe4582.py", line 54, in thread__strategy
+    strategy.strategy_main()
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 337, in strategy_main
+    cPT = create_PositionTrade(t+(time_frame*60))
+  File "/home/DoSe4582/strategy_execution/../strategy_execution/strategy.py", line 125, in create_PositionTrade
+    limit_entry_result = position_trade.place_both_entrys()
+  File "/home/DoSe4582/strategy_execution/../market_insertion/filling_and_orders_manager.py", line 293, in place_both_entrys
+    self.final_entry_order_id = bybit_usdt_perp_client.place_limit_order(self.final_entry_side, self.final_entry_price, self.final_entry_demanded_size)
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 971, in place_limit_order
+    order = usdt_perp_rest_client.place_active_order(
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 152, in place_active_order
+    return self._submit_request(
+  File "/home/DoSe4582/strategy_execution/../Bybit_Access/_http_manager.py", line 412, in _submit_request
+    raise InvalidRequestError(
+Bybit_Access._exceptions.InvalidRequestError: Oc_diff[3346090806], new_oc[3346090806] with ob[0]+ab[3215611007] (ErrCode: 130021) (ErrTime: 20:12:00).
+Request → POST https://api.bybit.com/private/linear/order/create: {'api_key': 'BFZPDDYNMBDBKMYBEK', 'close_on_trigger': False, 'order_link_id': 'VGNE586Hq4e75MXti1Xc2sf1eH59gbb0BujF', 'order_type': 'Limit', 'position_idx': 0, 'price': 27571.5, 'qty': 0.041, 'recv_window': 250, 'reduce_only': False, 'side': 'Buy', 'symbol': 'BTCUSDT', 'time_in_force': 'PostOnly', 'timestamp': 1682539920132, 'sign': 'ff67f1f557027396589a49c8400b1e42865485ab28153544ec43473ad56a3195'}.
+

@@ -1,0 +1,1004 @@
+@ 2023-07-27 20:02:45.167662 -> Sell limit entry order placed at 29570.0 with size 0.074
+@ 2023-07-27 20:03:00.050678 -> limit entry order canceled
+@ 2023-07-27 20:03:00.383855 -> Sell limit entry order placed at 29572.5 with size 0.074
+@ 2023-07-27 20:03:08.986587 -> limit entry order canceled
+@ 2023-07-27 21:47:50.353792 -> Sell limit entry order placed at 29606.5 with size 0.074
+@ 2023-07-27 21:47:50.389628 -> limit entry order canceled
+@ 2023-07-27 21:47:54.164788 -> Sell limit entry order placed at 29606.5 with size 0.074
+@ 2023-07-27 21:48:00.183400 -> limit entry order canceled
+@ 2023-07-27 21:48:37.173620 -> Sell limit entry order placed at 29609.0 with size 0.074
+@ 2023-07-27 21:49:00.071371 -> limit entry order canceled
+@ 2023-07-27 21:49:00.383564 -> Sell limit entry order placed at 29611.5 with size 0.074
+@ 2023-07-27 21:49:05.871225 -> limit entry order canceled
+@ 2023-07-27 21:49:07.896341 -> Sell limit entry order placed at 29611.5 with size 0.074
+@ 2023-07-27 21:50:00.083376 -> limit entry order canceled
+@ 2023-07-27 21:50:00.373973 -> Sell limit entry order placed at 29614.0 with size 0.074
+@ 2023-07-27 21:50:10.280230 -> limit entry order canceled
+@ 2023-07-28 00:47:36.318609 -> Sell limit entry order placed at 29660.5 with size 0.074
+@ 2023-07-28 00:47:38.969309 -> limit entry order canceled
+@ 2023-07-28 00:47:53.263137 -> Sell limit entry order placed at 29660.5 with size 0.074
+@ 2023-07-28 00:48:00.096835 -> limit entry order canceled
+@ 2023-07-28 00:48:00.397949 -> Sell limit entry order placed at 29663.0 with size 0.074
+@ 2023-07-28 00:49:00.274733 -> limit entry order canceled
+@ 2023-07-28 03:36:43.081667 -> Sell limit entry order placed at 29660.5 with size 0.074
+@ 2023-07-28 03:37:00.063287 -> limit entry order canceled
+@ 2023-07-28 03:37:00.402359 -> Sell limit entry order placed at 29663.0 with size 0.074
+@ 2023-07-28 03:38:00.211342 -> limit entry order canceled
+@ 2023-07-28 03:38:00.376585 -> Sell limit entry order placed at 29665.5 with size 0.074
+@ 2023-07-28 03:38:09.516610 -> limit entry order canceled
+@ 2023-07-28 05:53:04.278733 -> Buy limit entry order placed at 28749.5 with size 0.074
+@ 2023-07-28 05:53:07.978321 -> limit entry order canceled
+@ 2023-07-28 05:53:28.281049 -> Buy limit entry order placed at 28749.5 with size 0.074
+@ 2023-07-28 05:53:31.768971 -> limit entry order canceled
+@ 2023-07-28 09:55:21.538389 -> Sell limit entry order placed at 29591.0 with size 0.074
+@ 2023-07-28 09:56:00.050462 -> limit entry order canceled
+@ 2023-07-28 09:56:00.383202 -> Sell limit entry order placed at 29594.0 with size 0.074
+@ 2023-07-28 09:57:00.151880 -> limit entry order canceled
+@ 2023-07-28 09:57:00.385482 -> Sell limit entry order placed at 29597.0 with size 0.074
+@ 2023-07-28 09:58:00.243189 -> limit entry order canceled
+@ 2023-07-28 09:58:00.377339 -> Sell limit entry order placed at 29600.0 with size 0.074
+@ 2023-07-28 09:58:33.284939 -> limit entry order canceled
+@ 2023-07-28 12:10:53.580209 -> Sell limit entry order placed at 29652.5 with size 0.075
+@ 2023-07-28 12:11:00.209366 -> limit entry order canceled
+@ 2023-07-28 12:11:00.381364 -> Sell limit entry order placed at 29655.0 with size 0.075
+@ 2023-07-28 12:11:07.728704 -> limit entry order canceled
+@ 2023-07-28 12:55:23.279990 -> Sell limit entry order placed at 29695.0 with size 0.075
+@ 2023-07-28 12:55:40.908489 -> limit entry order canceled
+@ 2023-07-28 14:10:26.816071 -> Sell limit entry order placed at 29718.5 with size 0.074
+@ 2023-07-28 14:10:34.283803 -> limit entry order canceled
+@ 2023-07-28 14:10:39.062349 -> Sell limit entry order placed at 29718.5 with size 0.074
+@ 2023-07-28 14:10:39.369748 -> limit entry order canceled
+@ 2023-07-28 14:10:42.647238 -> Sell limit entry order placed at 29718.5 with size 0.074
+@ 2023-07-28 14:10:49.490301 -> limit entry order canceled
+@ 2023-07-28 14:10:56.531361 -> Sell limit entry order placed at 29718.5 with size 0.074
+@ 2023-07-28 14:11:00.247216 -> limit entry order canceled
+@ 2023-07-28 14:11:00.484778 -> Sell limit entry order placed at 29721.0 with size 0.074
+@ 2023-07-28 14:12:00.191451 -> limit entry order canceled
+@ 2023-07-28 14:12:00.386580 -> Sell limit entry order placed at 29724.0 with size 0.075
+@ 2023-07-28 14:12:04.869385 -> limit entry order canceled
+@ 2023-07-28 14:12:28.183455 -> Sell limit entry order placed at 29724.0 with size 0.075
+@ 2023-07-28 14:12:46.272716 -> limit entry order canceled
+@ 2023-07-28 14:13:45.198725 -> Sell limit entry order placed at 29726.0 with size 0.075
+@ 2023-07-28 14:14:00.147438 -> limit entry order canceled
+@ 2023-07-28 14:14:00.390603 -> Sell limit entry order placed at 29728.5 with size 0.075
+@ 2023-07-28 14:14:25.059464 -> limit entry order canceled
+@ 2023-07-28 14:14:52.630224 -> Sell limit entry order placed at 29728.5 with size 0.075
+@ 2023-07-28 14:15:00.283326 -> limit entry order canceled
+@ 2023-07-28 14:15:00.379957 -> Sell limit entry order placed at 29730.5 with size 0.074
+@ 2023-07-28 14:15:41.584343 -> limit entry order canceled
+@ 2023-07-28 14:16:54.458546 -> Sell limit entry order placed at 29733.0 with size 0.075
+@ 2023-07-28 14:17:00.261642 -> limit entry order canceled
+@ 2023-07-28 14:17:01.892618 -> Sell limit entry order placed at 29735.0 with size 0.074
+@ 2023-07-28 14:18:00.195400 -> limit entry order canceled
+@ 2023-07-28 14:18:00.382356 -> Sell limit entry order placed at 29737.5 with size 0.074
+@ 2023-07-28 14:18:02.532747 -> limit entry order canceled
+@ 2023-07-28 14:18:10.317219 -> Sell limit entry order placed at 29737.5 with size 0.074
+@ 2023-07-28 14:19:00.243463 -> limit entry order canceled
+@ 2023-07-28 14:19:00.378395 -> Sell limit entry order placed at 29740.5 with size 0.075
+@ 2023-07-28 14:20:00.055835 -> limit entry order canceled
+@ 2023-07-28 14:20:00.412390 -> Sell limit entry order placed at 29743.5 with size 0.075
+@ 2023-07-28 14:21:00.294206 -> limit entry order canceled
+@ 2023-07-28 14:21:00.401089 -> Sell limit entry order placed at 29747.5 with size 0.074
+@ 2023-07-28 14:22:00.223471 -> limit entry order canceled
+@ 2023-07-28 14:22:00.381824 -> Sell limit entry order placed at 29752.5 with size 0.075
+@ 2023-07-28 14:23:00.098627 -> limit entry order canceled
+@ 2023-07-28 14:23:00.391999 -> Sell limit entry order placed at 29756.0 with size 0.074
+@ 2023-07-28 14:24:00.207659 -> limit entry order canceled
+@ 2023-07-28 14:24:00.387339 -> Sell limit entry order placed at 29759.0 with size 0.074
+@ 2023-07-28 14:25:00.047350 -> limit entry order canceled
+@ 2023-07-28 14:25:00.383527 -> Sell limit entry order placed at 29762.5 with size 0.075
+@ 2023-07-28 14:25:31.544686 -> limit entry order canceled
+@ 2023-07-28 14:25:35.383181 -> Sell limit entry order placed at 29762.5 with size 0.075
+@ 2023-07-28 14:26:00.243278 -> limit entry order canceled
+@ 2023-07-28 14:26:00.405332 -> Sell limit entry order placed at 29765.0 with size 0.075
+@ 2023-07-28 14:27:00.275618 -> limit entry order canceled
+@ 2023-07-28 14:27:00.377200 -> Sell limit entry order placed at 29768.5 with size 0.074
+@ 2023-07-28 14:28:00.254572 -> limit entry order canceled
+@ 2023-07-28 14:28:00.381198 -> Sell limit entry order placed at 29772.0 with size 0.075
+@ 2023-07-28 14:29:00.221123 -> limit entry order canceled
+@ 2023-07-28 14:29:00.379641 -> Sell limit entry order placed at 29774.0 with size 0.074
+@ 2023-07-28 14:30:00.275470 -> limit entry order canceled
+@ 2023-07-28 14:30:00.376081 -> Sell limit entry order placed at 29779.0 with size 0.075
+@ 2023-07-28 14:31:00.117033 -> limit entry order canceled
+@ 2023-07-28 14:31:00.390691 -> Sell limit entry order placed at 29784.5 with size 0.074
+@ 2023-07-28 14:32:00.045313 -> limit entry order canceled
+@ 2023-07-28 14:32:00.394710 -> Sell limit entry order placed at 29792.0 with size 0.075
+@ 2023-07-28 14:33:00.187404 -> limit entry order canceled
+@ 2023-07-28 14:33:00.378716 -> Sell limit entry order placed at 29798.0 with size 0.074
+@ 2023-07-28 14:34:00.203394 -> limit entry order canceled
+@ 2023-07-28 14:34:00.385368 -> Sell limit entry order placed at 29802.5 with size 0.074
+@ 2023-07-28 14:35:00.290756 -> limit entry order canceled
+@ 2023-07-28 14:35:00.393912 -> Sell limit entry order placed at 29807.0 with size 0.074
+@ 2023-07-28 14:36:00.176118 -> limit entry order canceled
+@ 2023-07-28 14:36:00.386051 -> Sell limit entry order placed at 29809.5 with size 0.075
+@ 2023-07-28 14:36:25.530271 -> limit entry order canceled
+@ 2023-07-28 14:36:26.801720 -> Sell limit entry order placed at 29809.5 with size 0.075
+@ 2023-07-28 14:36:32.084171 -> limit entry order canceled
+@ 2023-07-28 14:37:03.650202 -> Sell limit entry order placed at 29811.5 with size 0.074
+@ 2023-07-28 14:38:00.263478 -> limit entry order canceled
+@ 2023-07-28 14:38:00.380557 -> Sell limit entry order placed at 29814.0 with size 0.074
+@ 2023-07-28 14:38:33.266674 -> limit entry order canceled
+@ 2023-07-28 14:39:05.387584 -> Sell limit entry order placed at 29816.5 with size 0.075
+@ 2023-07-28 14:40:00.260262 -> limit entry order canceled
+@ 2023-07-28 14:40:00.398955 -> Sell limit entry order placed at 29819.5 with size 0.075
+@ 2023-07-28 14:41:00.239350 -> limit entry order canceled
+@ 2023-07-28 14:41:00.380009 -> Sell limit entry order placed at 29822.5 with size 0.075
+@ 2023-07-28 14:42:00.230325 -> limit entry order canceled
+@ 2023-07-28 14:42:00.374819 -> Sell limit entry order placed at 29825.5 with size 0.075
+@ 2023-07-28 14:42:47.975182 -> limit entry order canceled
+@ 2023-07-28 14:46:29.934789 -> Sell limit entry order placed at 29831.0 with size 0.074
+@ 2023-07-28 14:46:45.351996 -> limit entry order canceled
+@ 2023-07-28 14:50:27.157635 -> Sell limit entry order placed at 29836.5 with size 0.074
+@ 2023-07-28 14:51:00.290874 -> limit entry order canceled
+@ 2023-07-28 14:51:00.398414 -> Sell limit entry order placed at 29839.0 with size 0.074
+@ 2023-07-28 14:51:20.225321 -> limit entry order canceled
+@ 2023-07-28 14:57:00.346605 -> Sell limit entry order placed at 29847.0 with size 0.075
+@ 2023-07-28 14:57:00.395976 -> limit entry order canceled
+@ 2023-07-28 14:57:00.432357 -> Sell limit entry order placed at 29849.0 with size 0.075
+@ 2023-07-28 14:57:26.554054 -> limit entry order canceled
+@ 2023-07-28 14:57:31.585228 -> Sell limit entry order placed at 29849.0 with size 0.075
+@ 2023-07-28 14:58:00.067609 -> limit entry order canceled
+@ 2023-07-28 14:58:00.377958 -> Sell limit entry order placed at 29852.0 with size 0.075
+@ 2023-07-28 14:58:32.532011 -> limit entry order canceled
+@ 2023-07-28 14:58:56.082390 -> Sell limit entry order placed at 29852.0 with size 0.075
+@ 2023-07-28 14:59:00.303404 -> limit entry order canceled
+@ 2023-07-28 14:59:08.140248 -> Sell limit entry order placed at 29854.5 with size 0.075
+@ 2023-07-28 15:00:00.154578 -> limit entry order canceled
+@ 2023-07-28 15:00:00.390654 -> Sell limit entry order placed at 29857.5 with size 0.075
+@ 2023-07-28 15:01:00.051911 -> limit entry order canceled
+@ 2023-07-28 15:01:00.379055 -> Sell limit entry order placed at 29860.0 with size 0.074
+@ 2023-07-28 15:01:03.828230 -> limit entry order canceled
+@ 2023-07-28 15:05:21.771966 -> Sell limit entry order placed at 29865.0 with size 0.075
+@ 2023-07-28 15:06:00.166884 -> limit entry order canceled
+@ 2023-07-28 15:06:00.394428 -> Sell limit entry order placed at 29867.5 with size 0.075
+@ 2023-07-28 15:06:10.513334 -> limit entry order canceled
+@ 2023-07-28 15:06:34.573572 -> Sell limit entry order placed at 29867.5 with size 0.075
+@ 2023-07-28 15:07:00.265333 -> limit entry order canceled
+@ 2023-07-28 15:07:09.138426 -> Sell limit entry order placed at 29870.0 with size 0.075
+@ 2023-07-28 15:08:00.219258 -> limit entry order canceled
+@ 2023-07-28 15:08:00.379258 -> Sell limit entry order placed at 29872.5 with size 0.075
+@ 2023-07-28 15:09:00.135991 -> limit entry order canceled
+@ 2023-07-28 15:09:00.385736 -> Sell limit entry order placed at 29875.5 with size 0.074
+@ 2023-07-28 15:10:00.098747 -> limit entry order canceled
+@ 2023-07-28 15:10:00.385607 -> Sell limit entry order placed at 29879.0 with size 0.075
+@ 2023-07-28 15:11:00.078047 -> limit entry order canceled
+@ 2023-07-28 15:11:00.393587 -> Sell limit entry order placed at 29882.0 with size 0.075
+@ 2023-07-28 15:12:00.146918 -> limit entry order canceled
+@ 2023-07-28 15:12:00.480845 -> Sell limit entry order placed at 29884.5 with size 0.075
+@ 2023-07-28 15:12:31.667625 -> limit entry order canceled
+@ 2023-07-28 15:16:32.539081 -> Sell limit entry order placed at 29891.5 with size 0.075
+@ 2023-07-28 15:16:50.878943 -> limit entry order canceled
+@ 2023-07-28 15:21:07.507757 -> Sell limit entry order placed at 29900.0 with size 0.075
+@ 2023-07-28 15:22:00.284127 -> limit entry order canceled
+@ 2023-07-28 15:22:00.377067 -> Sell limit entry order placed at 29903.0 with size 0.075
+@ 2023-07-28 15:23:00.242497 -> limit entry order canceled
+@ 2023-07-28 15:23:00.387460 -> Sell limit entry order placed at 29905.5 with size 0.075
+@ 2023-07-28 15:23:33.864997 -> limit entry order canceled
+@ 2023-07-28 15:36:09.761822 -> Buy limit entry order placed at 29020.5 with size 0.075
+@ 2023-07-28 15:37:00.238488 -> limit entry order canceled
+@ 2023-07-28 15:37:00.388318 -> Buy limit entry order placed at 29017.5 with size 0.074
+@ 2023-07-28 15:38:00.138724 -> limit entry order canceled
+@ 2023-07-28 15:38:00.404691 -> Buy limit entry order placed at 29012.5 with size 0.074
+@ 2023-07-28 15:39:00.276768 -> limit entry order canceled
+@ 2023-07-28 15:39:00.382254 -> Buy limit entry order placed at 29008.5 with size 0.074
+@ 2023-07-28 15:40:00.177489 -> limit entry order canceled
+@ 2023-07-28 15:40:00.382699 -> Buy limit entry order placed at 29005.0 with size 0.074
+@ 2023-07-28 15:41:00.091785 -> limit entry order canceled
+@ 2023-07-28 15:41:00.381925 -> Buy limit entry order placed at 29002.5 with size 0.074
+@ 2023-07-28 15:42:00.177853 -> limit entry order canceled
+@ 2023-07-28 15:43:29.930873 -> Buy limit entry order placed at 28998.5 with size 0.074
+@ 2023-07-28 15:44:00.185983 -> limit entry order canceled
+@ 2023-07-28 15:44:00.398508 -> Buy limit entry order placed at 28995.5 with size 0.075
+@ 2023-07-28 15:45:00.161244 -> limit entry order canceled
+@ 2023-07-28 15:45:00.384193 -> Buy limit entry order placed at 28992.5 with size 0.074
+@ 2023-07-28 15:45:54.363027 -> limit entry order canceled
+@ 2023-07-28 15:46:45.692398 -> Buy limit entry order placed at 28990.5 with size 0.074
+@ 2023-07-28 15:47:00.062922 -> limit entry order canceled
+@ 2023-07-28 15:47:04.388614 -> Buy limit entry order placed at 28988.0 with size 0.075
+@ 2023-07-28 15:48:00.192715 -> limit entry order canceled
+@ 2023-07-28 15:48:00.388386 -> Buy limit entry order placed at 28985.5 with size 0.075
+@ 2023-07-28 15:48:03.307424 -> limit entry order canceled
+@ 2023-07-28 15:48:43.383268 -> Buy limit entry order placed at 28985.5 with size 0.075
+@ 2023-07-28 15:49:00.115316 -> limit entry order canceled
+@ 2023-07-28 15:49:00.375731 -> Buy limit entry order placed at 28983.5 with size 0.074
+@ 2023-07-28 15:49:31.910429 -> limit entry order canceled
+@ 2023-07-28 15:53:52.563455 -> Buy limit entry order placed at 28975.5 with size 0.075
+@ 2023-07-28 15:54:00.183378 -> limit entry order canceled
+@ 2023-07-28 15:54:00.376981 -> Buy limit entry order placed at 28973.5 with size 0.074
+@ 2023-07-28 15:54:01.196157 -> limit entry order canceled
+@ 2023-07-28 16:04:06.002500 -> Buy limit entry order placed at 28956.0 with size 0.075
+@ 2023-07-28 16:05:00.222301 -> limit entry order canceled
+@ 2023-07-28 16:05:00.381215 -> Buy limit entry order placed at 28953.0 with size 0.075
+@ 2023-07-28 16:05:20.479980 -> limit entry order canceled
+@ 2023-07-28 16:08:40.942506 -> Buy limit entry order placed at 28947.0 with size 0.075
+@ 2023-07-28 16:09:00.236562 -> limit entry order canceled
+@ 2023-07-28 16:09:00.381878 -> Buy limit entry order placed at 28944.5 with size 0.075
+@ 2023-07-28 16:10:00.148532 -> limit entry order canceled
+@ 2023-07-28 16:10:00.389509 -> Buy limit entry order placed at 28942.0 with size 0.075
+@ 2023-07-28 16:11:00.100795 -> limit entry order canceled
+@ 2023-07-28 16:11:18.411239 -> Buy limit entry order placed at 28940.0 with size 0.074
+@ 2023-07-28 16:12:00.144686 -> limit entry order canceled
+@ 2023-07-28 16:12:00.381670 -> Buy limit entry order placed at 28937.0 with size 0.074
+@ 2023-07-28 16:13:00.058420 -> limit entry order canceled
+@ 2023-07-28 16:13:00.484937 -> Buy limit entry order placed at 28934.5 with size 0.075
+@ 2023-07-28 16:13:02.604617 -> limit entry order canceled
+@ 2023-07-28 16:14:38.183889 -> Buy limit entry order placed at 28932.5 with size 0.075
+@ 2023-07-28 16:14:46.025386 -> limit entry order canceled
+@ 2023-07-28 16:14:48.798848 -> Buy limit entry order placed at 28932.5 with size 0.075
+@ 2023-07-28 16:15:00.288669 -> limit entry order canceled
+@ 2023-07-28 16:15:06.135385 -> Buy limit entry order placed at 28930.5 with size 0.074
+@ 2023-07-28 16:15:34.300391 -> limit entry order canceled
+@ 2023-07-28 17:05:35.074493 -> Buy limit entry order placed at 28913.5 with size 0.075
+@ 2023-07-28 17:06:00.090749 -> limit entry order canceled
+@ 2023-07-28 17:06:00.378842 -> Buy limit entry order placed at 28911.5 with size 0.074
+@ 2023-07-28 17:06:02.770134 -> limit entry order canceled
+@ 2023-07-28 17:07:10.163976 -> Buy limit entry order placed at 28909.5 with size 0.075
+@ 2023-07-28 17:08:00.169345 -> limit entry order canceled
+@ 2023-07-28 17:08:00.374809 -> Buy limit entry order placed at 28906.0 with size 0.075
+@ 2023-07-28 17:09:00.065413 -> limit entry order canceled
+@ 2023-07-28 17:09:00.381389 -> Buy limit entry order placed at 28903.0 with size 0.074
+@ 2023-07-28 17:10:00.287129 -> limit entry order canceled
+@ 2023-07-28 17:10:00.391976 -> Buy limit entry order placed at 28899.0 with size 0.075
+@ 2023-07-28 17:10:06.946039 -> limit entry order canceled
+@ 2023-07-28 17:10:07.968003 -> Buy limit entry order placed at 28899.0 with size 0.075
+@ 2023-07-28 17:10:53.317520 -> limit entry order canceled
+@ 2023-07-28 17:11:58.200792 -> Buy limit entry order placed at 28897.0 with size 0.075
+@ 2023-07-28 17:12:00.073643 -> limit entry order canceled
+@ 2023-07-28 17:12:00.379715 -> Buy limit entry order placed at 28895.0 with size 0.074
+@ 2023-07-28 17:12:08.990445 -> limit entry order canceled
+@ 2023-07-28 17:33:02.000142 -> Buy limit entry order placed at 28865.5 with size 0.075
+@ 2023-07-28 17:33:04.374083 -> limit entry order canceled
+@ 2023-07-28 17:34:01.376980 -> Buy limit entry order placed at 28863.5 with size 0.075
+@ 2023-07-28 17:34:34.429303 -> limit entry order canceled
+@ 2023-07-28 17:35:31.412460 -> Buy limit entry order placed at 28861.5 with size 0.075
+@ 2023-07-28 17:36:00.075590 -> limit entry order canceled
+@ 2023-07-28 17:36:00.375745 -> Buy limit entry order placed at 28858.0 with size 0.075
+@ 2023-07-28 17:37:00.178778 -> limit entry order canceled
+@ 2023-07-28 17:37:00.393082 -> Buy limit entry order placed at 28853.5 with size 0.074
+@ 2023-07-28 17:38:00.214628 -> limit entry order canceled
+@ 2023-07-28 17:38:00.391819 -> Buy limit entry order placed at 28849.5 with size 0.075
+@ 2023-07-28 17:39:00.227464 -> limit entry order canceled
+@ 2023-07-28 17:39:00.383507 -> Buy limit entry order placed at 28847.0 with size 0.075
+@ 2023-07-28 17:40:00.191412 -> limit entry order canceled
+@ 2023-07-28 17:40:00.381272 -> Buy limit entry order placed at 28844.0 with size 0.075
+@ 2023-07-28 17:41:00.220433 -> limit entry order canceled
+@ 2023-07-28 17:41:00.380655 -> Buy limit entry order placed at 28841.0 with size 0.075
+@ 2023-07-28 17:42:00.147966 -> limit entry order canceled
+@ 2023-07-28 17:42:00.400064 -> Buy limit entry order placed at 28838.0 with size 0.074
+@ 2023-07-28 17:43:00.187991 -> limit entry order canceled
+@ 2023-07-28 17:43:00.373634 -> Buy limit entry order placed at 28834.0 with size 0.074
+@ 2023-07-28 17:44:00.165570 -> limit entry order canceled
+@ 2023-07-28 17:44:00.384417 -> Buy limit entry order placed at 28830.0 with size 0.075
+@ 2023-07-28 17:45:00.177653 -> limit entry order canceled
+@ 2023-07-28 17:45:00.383976 -> Buy limit entry order placed at 28826.5 with size 0.075
+@ 2023-07-28 17:46:00.211947 -> limit entry order canceled
+@ 2023-07-28 17:46:00.383438 -> Buy limit entry order placed at 28822.5 with size 0.075
+@ 2023-07-28 17:47:00.171198 -> limit entry order canceled
+@ 2023-07-28 17:47:00.383275 -> Buy limit entry order placed at 28820.0 with size 0.075
+@ 2023-07-28 17:48:00.214526 -> limit entry order canceled
+@ 2023-07-28 17:48:00.371756 -> Buy limit entry order placed at 28817.5 with size 0.075
+@ 2023-07-28 17:48:12.113217 -> limit entry order canceled
+@ 2023-07-28 18:41:47.297605 -> Sell limit entry order placed at 29705.0 with size 0.075
+@ 2023-07-28 18:42:00.059007 -> limit entry order canceled
+@ 2023-07-28 18:42:00.373786 -> Sell limit entry order placed at 29707.5 with size 0.075
+@ 2023-07-28 18:43:00.131629 -> limit entry order canceled
+@ 2023-07-28 18:43:00.381708 -> Sell limit entry order placed at 29710.0 with size 0.075
+@ 2023-07-28 18:44:00.173730 -> limit entry order canceled
+@ 2023-07-28 18:44:00.383367 -> Sell limit entry order placed at 29712.5 with size 0.075
+@ 2023-07-28 18:45:00.180117 -> limit entry order canceled
+@ 2023-07-28 18:45:00.378907 -> Sell limit entry order placed at 29715.0 with size 0.075
+@ 2023-07-28 18:45:34.494296 -> limit entry order canceled
+@ 2023-07-29 08:51:32.818743 -> Buy limit entry order placed at 28855.0 with size 0.075
+@ 2023-07-29 08:51:34.477639 -> limit entry order canceled
+@ 2023-07-29 08:51:42.046384 -> Buy limit entry order placed at 28855.0 with size 0.075
+@ 2023-07-29 08:52:00.108538 -> limit entry order canceled
+@ 2023-07-29 08:52:00.384998 -> Buy limit entry order placed at 28852.5 with size 0.075
+@ 2023-07-29 08:52:06.404686 -> limit entry order canceled
+@ 2023-07-30 10:54:23.810718 -> Buy limit entry order placed at 28827.0 with size 0.077
+@ 2023-07-30 10:54:24.674440 -> limit entry order canceled
+@ 2023-07-30 14:45:29.032893 -> Sell limit entry order placed at 29735.0 with size 0.077
+@ 2023-07-30 14:46:00.148014 -> limit entry order canceled
+@ 2023-07-30 14:46:00.407589 -> Sell limit entry order placed at 29740.5 with size 0.077
+@ 2023-07-30 14:47:00.078266 -> limit entry order canceled
+@ 2023-07-30 14:47:00.391090 -> Sell limit entry order placed at 29744.5 with size 0.077
+@ 2023-07-30 14:47:48.722988 -> limit entry order canceled
+@ 2023-07-30 14:47:56.259766 -> Sell limit entry order placed at 29744.5 with size 0.077
+@ 2023-07-30 14:48:00.230319 -> limit entry order canceled
+@ 2023-07-30 14:48:00.394836 -> Sell limit entry order placed at 29746.5 with size 0.077
+@ 2023-07-30 14:49:00.292225 -> limit entry order canceled
+@ 2023-07-30 14:49:00.377173 -> Sell limit entry order placed at 29750.0 with size 0.077
+@ 2023-07-30 14:50:00.196797 -> limit entry order canceled
+@ 2023-07-30 14:50:00.382460 -> Sell limit entry order placed at 29753.5 with size 0.077
+@ 2023-07-30 14:51:00.110351 -> limit entry order canceled
+@ 2023-07-30 14:51:00.381046 -> Sell limit entry order placed at 29756.5 with size 0.077
+@ 2023-07-30 14:52:00.240450 -> limit entry order canceled
+@ 2023-07-30 14:52:00.386557 -> Sell limit entry order placed at 29759.0 with size 0.077
+@ 2023-07-30 14:53:00.228344 -> limit entry order canceled
+@ 2023-07-30 14:53:00.376375 -> Sell limit entry order placed at 29761.5 with size 0.077
+@ 2023-07-30 14:54:00.131144 -> limit entry order canceled
+@ 2023-07-30 14:54:00.376818 -> Sell limit entry order placed at 29764.0 with size 0.077
+@ 2023-07-30 14:55:00.049051 -> limit entry order canceled
+@ 2023-07-30 15:00:06.504225 -> Sell limit entry order placed at 29776.0 with size 0.077
+@ 2023-07-30 15:01:00.239395 -> limit entry order canceled
+@ 2023-07-30 15:01:00.378551 -> Sell limit entry order placed at 29778.5 with size 0.077
+@ 2023-07-30 15:02:00.271487 -> limit entry order canceled
+@ 2023-07-30 15:02:00.384045 -> Sell limit entry order placed at 29782.0 with size 0.077
+@ 2023-07-30 15:03:00.072843 -> limit entry order canceled
+@ 2023-07-30 15:03:00.382904 -> Sell limit entry order placed at 29785.0 with size 0.077
+@ 2023-07-30 15:04:00.289914 -> limit entry order canceled
+@ 2023-07-30 15:04:00.386569 -> Sell limit entry order placed at 29789.5 with size 0.077
+@ 2023-07-30 15:05:00.167565 -> limit entry order canceled
+@ 2023-07-30 15:05:00.382596 -> Sell limit entry order placed at 29793.5 with size 0.077
+@ 2023-07-30 15:06:00.073295 -> limit entry order canceled
+@ 2023-07-30 15:06:00.385801 -> Sell limit entry order placed at 29797.0 with size 0.077
+@ 2023-07-30 15:07:00.191588 -> limit entry order canceled
+@ 2023-07-30 15:07:00.386443 -> Sell limit entry order placed at 29799.5 with size 0.077
+@ 2023-07-30 15:07:48.222378 -> limit entry order canceled
+@ 2023-07-30 15:53:38.042565 -> Buy limit entry order placed at 28952.0 with size 0.077
+@ 2023-07-30 15:54:00.067014 -> limit entry order canceled
+@ 2023-07-30 15:54:00.380283 -> Buy limit entry order placed at 28949.0 with size 0.077
+@ 2023-07-30 15:54:28.085447 -> limit entry order canceled
+@ 2023-07-30 15:54:36.869443 -> Buy limit entry order placed at 28949.0 with size 0.077
+@ 2023-07-30 15:55:00.094786 -> limit entry order canceled
+@ 2023-07-30 15:55:00.377429 -> Buy limit entry order placed at 28945.5 with size 0.077
+@ 2023-07-30 15:56:00.167356 -> limit entry order canceled
+@ 2023-07-30 15:56:00.381350 -> Buy limit entry order placed at 28941.5 with size 0.077
+@ 2023-07-30 15:57:00.198994 -> limit entry order canceled
+@ 2023-07-30 15:57:00.385178 -> Buy limit entry order placed at 28937.5 with size 0.077
+@ 2023-07-30 15:58:00.146234 -> limit entry order canceled
+@ 2023-07-30 15:58:00.374537 -> Buy limit entry order placed at 28935.0 with size 0.077
+@ 2023-07-30 15:58:16.043604 -> limit entry order canceled
+@ 2023-07-30 15:58:34.087502 -> Buy limit entry order placed at 28935.0 with size 0.077
+@ 2023-07-30 15:58:53.675109 -> limit entry order canceled
+@ 2023-07-30 16:03:33.033529 -> Buy limit entry order placed at 28925.5 with size 0.077
+@ 2023-07-30 16:04:00.190154 -> limit entry order canceled
+@ 2023-07-30 16:04:00.375309 -> Buy limit entry order placed at 28923.0 with size 0.077
+@ 2023-07-30 16:05:00.233138 -> limit entry order canceled
+@ 2023-07-30 19:48:57.094700 -> Buy limit entry order placed at 28898.0 with size 0.077
+@ 2023-07-30 19:49:00.130985 -> limit entry order canceled
+@ 2023-07-30 19:49:00.400035 -> Buy limit entry order placed at 28894.5 with size 0.077
+@ 2023-07-30 19:50:00.133191 -> limit entry order canceled
+@ 2023-07-30 19:50:00.504320 -> Buy limit entry order placed at 28890.5 with size 0.077
+@ 2023-07-30 19:51:00.053650 -> limit entry order canceled
+@ 2023-07-30 19:51:00.381830 -> Buy limit entry order placed at 28881.5 with size 0.077
+@ 2023-07-30 19:52:00.307445 -> limit entry order canceled
+@ 2023-07-30 19:52:00.395950 -> Buy limit entry order placed at 28873.0 with size 0.077
+@ 2023-07-30 19:53:00.045389 -> limit entry order canceled
+@ 2023-07-30 19:53:00.379869 -> Buy limit entry order placed at 28865.5 with size 0.077
+@ 2023-07-30 19:54:00.217456 -> limit entry order canceled
+@ 2023-07-30 19:54:00.381383 -> Buy limit entry order placed at 28857.5 with size 0.077
+@ 2023-07-30 19:55:00.216192 -> limit entry order canceled
+@ 2023-07-30 19:55:00.379436 -> Buy limit entry order placed at 28852.0 with size 0.077
+@ 2023-07-30 19:56:00.065322 -> limit entry order canceled
+@ 2023-07-30 19:56:00.399539 -> Buy limit entry order placed at 28846.5 with size 0.077
+@ 2023-07-30 19:57:00.217591 -> limit entry order canceled
+@ 2023-07-30 19:57:00.377891 -> Buy limit entry order placed at 28840.0 with size 0.077
+@ 2023-07-30 19:58:00.065936 -> limit entry order canceled
+@ 2023-07-30 19:58:00.373923 -> Buy limit entry order placed at 28834.5 with size 0.077
+@ 2023-07-30 19:59:00.172611 -> limit entry order canceled
+@ 2023-07-30 19:59:00.386782 -> Buy limit entry order placed at 28830.0 with size 0.077
+@ 2023-07-30 20:00:00.149085 -> limit entry order canceled
+@ 2023-07-30 20:00:00.406318 -> Buy limit entry order placed at 28826.0 with size 0.077
+@ 2023-07-30 20:01:00.066346 -> limit entry order canceled
+@ 2023-07-30 20:01:00.376043 -> Buy limit entry order placed at 28821.0 with size 0.077
+@ 2023-07-30 20:02:00.264293 -> limit entry order canceled
+@ 2023-07-30 20:02:00.380969 -> Buy limit entry order placed at 28814.5 with size 0.077
+@ 2023-07-30 20:03:00.308888 -> limit entry order canceled
+@ 2023-07-30 20:03:00.384208 -> Buy limit entry order placed at 28804.0 with size 0.077
+@ 2023-07-30 20:04:00.216350 -> limit entry order canceled
+@ 2023-07-30 20:04:00.384889 -> Buy limit entry order placed at 28796.0 with size 0.077
+@ 2023-07-30 20:05:00.057222 -> limit entry order canceled
+@ 2023-07-30 20:05:00.376638 -> Buy limit entry order placed at 28789.5 with size 0.077
+@ 2023-07-30 20:06:00.235812 -> limit entry order canceled
+@ 2023-07-30 20:06:00.397766 -> Buy limit entry order placed at 28782.5 with size 0.077
+@ 2023-07-30 20:07:00.289456 -> limit entry order canceled
+@ 2023-07-30 20:07:00.388881 -> Buy limit entry order placed at 28776.0 with size 0.077
+@ 2023-07-30 20:08:00.252070 -> limit entry order canceled
+@ 2023-07-30 20:08:00.378149 -> Buy limit entry order placed at 28771.0 with size 0.077
+@ 2023-07-30 20:09:00.238071 -> limit entry order canceled
+@ 2023-07-30 20:09:00.378667 -> Buy limit entry order placed at 28766.5 with size 0.077
+@ 2023-07-30 20:10:00.159060 -> limit entry order canceled
+@ 2023-07-30 20:10:00.383487 -> Buy limit entry order placed at 28763.0 with size 0.077
+@ 2023-07-30 20:11:00.190231 -> limit entry order canceled
+@ 2023-07-30 20:11:00.386784 -> Buy limit entry order placed at 28759.0 with size 0.077
+@ 2023-07-30 20:12:00.222645 -> limit entry order canceled
+@ 2023-07-30 20:12:00.380831 -> Buy limit entry order placed at 28754.5 with size 0.077
+@ 2023-07-30 20:13:00.163740 -> limit entry order canceled
+@ 2023-07-30 20:13:00.375618 -> Buy limit entry order placed at 28750.0 with size 0.077
+@ 2023-07-30 20:14:00.157645 -> limit entry order canceled
+@ 2023-07-30 20:14:00.374331 -> Buy limit entry order placed at 28747.0 with size 0.077
+@ 2023-07-30 20:15:00.154392 -> limit entry order canceled
+@ 2023-07-30 20:15:00.382583 -> Buy limit entry order placed at 28744.5 with size 0.077
+@ 2023-07-30 20:16:00.096823 -> limit entry order canceled
+@ 2023-07-30 20:16:00.368125 -> Buy limit entry order placed at 28741.0 with size 0.077
+@ 2023-07-30 20:16:34.955329 -> limit entry order canceled
+@ 2023-07-30 20:56:15.775481 -> Sell limit entry order placed at 29603.5 with size 0.077
+@ 2023-07-30 20:57:00.217921 -> limit entry order canceled
+@ 2023-07-30 20:57:00.377297 -> Sell limit entry order placed at 29606.0 with size 0.077
+@ 2023-07-30 20:58:00.166333 -> limit entry order canceled
+@ 2023-07-30 20:58:00.384445 -> Sell limit entry order placed at 29610.5 with size 0.077
+@ 2023-07-30 20:59:00.135361 -> limit entry order canceled
+@ 2023-07-30 20:59:00.375331 -> Sell limit entry order placed at 29614.5 with size 0.077
+@ 2023-07-30 21:00:00.136070 -> limit entry order canceled
+@ 2023-07-30 21:00:00.380326 -> Sell limit entry order placed at 29618.5 with size 0.077
+@ 2023-07-30 21:01:00.103433 -> limit entry order canceled
+@ 2023-07-30 21:01:00.381068 -> Sell limit entry order placed at 29621.5 with size 0.077
+@ 2023-07-30 21:02:00.237081 -> limit entry order canceled
+@ 2023-07-30 21:02:00.383238 -> Sell limit entry order placed at 29624.5 with size 0.077
+@ 2023-07-30 21:02:57.545598 -> limit entry order canceled
+@ 2023-07-30 21:04:26.661595 -> Sell limit entry order placed at 29628.5 with size 0.077
+@ 2023-07-30 21:05:00.169426 -> limit entry order canceled
+@ 2023-07-30 21:05:00.379071 -> Sell limit entry order placed at 29631.0 with size 0.077
+@ 2023-07-30 21:05:06.921391 -> limit entry order canceled
+@ 2023-07-30 23:09:14.768327 -> Sell limit entry order placed at 29593.5 with size 0.077
+@ 2023-07-30 23:10:00.215050 -> limit entry order canceled
+@ 2023-07-30 23:10:00.376681 -> Sell limit entry order placed at 29596.0 with size 0.077
+@ 2023-07-30 23:10:03.072545 -> limit entry order canceled
+@ 2023-07-30 23:11:45.443686 -> Sell limit entry order placed at 29597.0 with size 0.077
+@ 2023-07-30 23:12:00.111742 -> limit entry order canceled
+@ 2023-07-30 23:12:00.380721 -> Sell limit entry order placed at 29599.5 with size 0.077
+@ 2023-07-30 23:13:00.085831 -> limit entry order canceled
+@ 2023-07-30 23:13:00.371690 -> Sell limit entry order placed at 29603.0 with size 0.077
+@ 2023-07-30 23:14:00.150638 -> limit entry order canceled
+@ 2023-07-30 23:14:00.376782 -> Sell limit entry order placed at 29606.0 with size 0.077
+@ 2023-07-30 23:15:00.224767 -> limit entry order canceled
+@ 2023-07-30 23:15:00.378576 -> Sell limit entry order placed at 29608.5 with size 0.077
+@ 2023-07-30 23:16:00.241215 -> limit entry order canceled
+@ 2023-07-30 23:16:00.390954 -> Sell limit entry order placed at 29611.0 with size 0.077
+@ 2023-07-30 23:16:49.959688 -> limit entry order canceled
+@ 2023-07-30 23:17:49.438677 -> Sell limit entry order placed at 29613.0 with size 0.077
+@ 2023-07-30 23:18:00.214442 -> limit entry order canceled
+@ 2023-07-30 23:20:01.387900 -> Sell limit entry order placed at 29619.5 with size 0.077
+@ 2023-07-30 23:21:00.289535 -> limit entry order canceled
+@ 2023-07-30 23:21:00.375911 -> Sell limit entry order placed at 29622.0 with size 0.077
+@ 2023-07-30 23:22:00.058898 -> limit entry order canceled
+@ 2023-07-30 23:22:00.385323 -> Sell limit entry order placed at 29624.5 with size 0.077
+@ 2023-07-30 23:23:00.268748 -> limit entry order canceled
+@ 2023-07-30 23:23:00.426075 -> Sell limit entry order placed at 29627.0 with size 0.077
+@ 2023-07-30 23:24:00.086920 -> limit entry order canceled
+@ 2023-07-30 23:24:00.419188 -> Sell limit entry order placed at 29629.5 with size 0.077
+@ 2023-07-30 23:25:00.278751 -> limit entry order canceled
+@ 2023-07-30 23:25:00.417708 -> Sell limit entry order placed at 29632.0 with size 0.077
+@ 2023-07-30 23:25:23.374841 -> limit entry order canceled
+@ 2023-07-30 23:29:07.163510 -> Sell limit entry order placed at 29639.5 with size 0.077
+@ 2023-07-30 23:30:00.119978 -> limit entry order canceled
+@ 2023-07-30 23:30:00.383834 -> Sell limit entry order placed at 29642.0 with size 0.077
+@ 2023-07-30 23:31:00.224150 -> limit entry order canceled
+@ 2023-07-30 23:31:00.375746 -> Sell limit entry order placed at 29644.5 with size 0.077
+@ 2023-07-30 23:31:02.240449 -> limit entry order canceled
+@ 2023-07-30 23:34:02.644531 -> Sell limit entry order placed at 29651.0 with size 0.077
+@ 2023-07-30 23:35:00.246863 -> limit entry order canceled
+@ 2023-07-30 23:35:00.377178 -> Sell limit entry order placed at 29653.5 with size 0.077
+@ 2023-07-30 23:36:00.085022 -> limit entry order canceled
+@ 2023-07-30 23:36:00.378083 -> Sell limit entry order placed at 29656.0 with size 0.077
+@ 2023-07-30 23:37:00.261931 -> limit entry order canceled
+@ 2023-07-30 23:37:00.382351 -> Sell limit entry order placed at 29659.5 with size 0.077
+@ 2023-07-30 23:38:00.260507 -> limit entry order canceled
+@ 2023-07-30 23:38:00.383939 -> Sell limit entry order placed at 29661.5 with size 0.077
+@ 2023-07-30 23:38:41.841324 -> limit entry order canceled
+@ 2023-07-31 00:26:10.504430 -> Sell limit entry order placed at 29701.0 with size 0.077
+@ 2023-07-31 00:27:00.083076 -> limit entry order canceled
+@ 2023-07-31 00:27:00.377908 -> Sell limit entry order placed at 29703.5 with size 0.077
+@ 2023-07-31 00:27:09.907994 -> limit entry order canceled
+@ 2023-07-31 00:31:24.270029 -> Sell limit entry order placed at 29709.0 with size 0.077
+@ 2023-07-31 00:32:00.116606 -> limit entry order canceled
+@ 2023-07-31 00:40:02.764887 -> Sell limit entry order placed at 29721.5 with size 0.077
+@ 2023-07-31 00:40:38.784098 -> limit entry order canceled
+@ 2023-07-31 00:40:51.072423 -> Sell limit entry order placed at 29721.5 with size 0.077
+@ 2023-07-31 00:41:00.123903 -> limit entry order canceled
+@ 2023-07-31 00:41:39.185997 -> Sell limit entry order placed at 29723.5 with size 0.077
+@ 2023-07-31 00:42:00.188452 -> limit entry order canceled
+@ 2023-07-31 00:42:15.147715 -> Sell limit entry order placed at 29726.0 with size 0.077
+@ 2023-07-31 00:43:00.220169 -> limit entry order canceled
+@ 2023-07-31 00:43:00.384203 -> Sell limit entry order placed at 29728.5 with size 0.077
+@ 2023-07-31 00:44:00.139525 -> limit entry order canceled
+@ 2023-07-31 00:44:00.414372 -> Sell limit entry order placed at 29731.5 with size 0.077
+@ 2023-07-31 00:45:00.154363 -> limit entry order canceled
+@ 2023-07-31 00:45:00.411125 -> Sell limit entry order placed at 29742.0 with size 0.077
+@ 2023-07-31 00:46:00.189899 -> limit entry order canceled
+@ 2023-07-31 00:46:00.381970 -> Sell limit entry order placed at 29749.5 with size 0.077
+@ 2023-07-31 00:47:00.097573 -> limit entry order canceled
+@ 2023-07-31 00:47:00.378539 -> Sell limit entry order placed at 29756.5 with size 0.077
+@ 2023-07-31 00:48:00.070182 -> limit entry order canceled
+@ 2023-07-31 00:48:00.389195 -> Sell limit entry order placed at 29764.5 with size 0.077
+@ 2023-07-31 00:49:00.186806 -> limit entry order canceled
+@ 2023-07-31 00:49:00.386086 -> Sell limit entry order placed at 29771.0 with size 0.077
+@ 2023-07-31 00:50:00.213227 -> limit entry order canceled
+@ 2023-07-31 00:50:00.403541 -> Sell limit entry order placed at 29778.5 with size 0.077
+@ 2023-07-31 00:51:00.266181 -> limit entry order canceled
+@ 2023-07-31 00:51:00.394854 -> Sell limit entry order placed at 29784.5 with size 0.077
+@ 2023-07-31 00:52:00.283396 -> limit entry order canceled
+@ 2023-07-31 00:52:00.380759 -> Sell limit entry order placed at 29788.5 with size 0.077
+@ 2023-07-31 00:53:00.218985 -> limit entry order canceled
+@ 2023-07-31 00:53:00.384318 -> Sell limit entry order placed at 29793.0 with size 0.077
+@ 2023-07-31 00:53:14.760097 -> limit entry order canceled
+@ 2023-07-31 00:53:15.550057 -> Sell limit entry order placed at 29793.0 with size 0.077
+@ 2023-07-31 00:54:00.298011 -> limit entry order canceled
+@ 2023-07-31 00:54:00.379623 -> Sell limit entry order placed at 29796.0 with size 0.077
+@ 2023-07-31 00:55:00.176925 -> limit entry order canceled
+@ 2023-07-31 00:55:00.387742 -> Sell limit entry order placed at 29800.0 with size 0.077
+@ 2023-07-31 00:56:00.066792 -> limit entry order canceled
+@ 2023-07-31 00:56:00.385509 -> Sell limit entry order placed at 29803.5 with size 0.077
+@ 2023-07-31 00:57:00.272372 -> limit entry order canceled
+@ 2023-07-31 00:57:00.383877 -> Sell limit entry order placed at 29807.5 with size 0.077
+@ 2023-07-31 00:58:00.193550 -> limit entry order canceled
+@ 2023-07-31 00:58:00.493428 -> Sell limit entry order placed at 29811.5 with size 0.077
+@ 2023-07-31 00:59:00.055643 -> limit entry order canceled
+@ 2023-07-31 00:59:00.379852 -> Sell limit entry order placed at 29815.0 with size 0.077
+@ 2023-07-31 01:00:00.196543 -> limit entry order canceled
+@ 2023-07-31 01:00:00.391071 -> Sell limit entry order placed at 29818.5 with size 0.077
+@ 2023-07-31 01:01:00.298564 -> limit entry order canceled
+@ 2023-07-31 01:01:00.403409 -> Sell limit entry order placed at 29823.0 with size 0.077
+@ 2023-07-31 01:02:00.219398 -> limit entry order canceled
+@ 2023-07-31 01:02:00.387321 -> Sell limit entry order placed at 29826.0 with size 0.077
+@ 2023-07-31 01:02:19.244914 -> limit entry order canceled
+@ 2023-07-31 01:02:27.568573 -> Sell limit entry order placed at 29826.0 with size 0.077
+@ 2023-07-31 01:02:41.449282 -> limit entry order canceled
+@ 2023-07-31 02:33:38.284227 -> Sell limit entry order placed at 29884.0 with size 0.077
+@ 2023-07-31 02:33:42.479430 -> limit entry order canceled
+@ 2023-07-31 06:25:50.066351 -> Sell limit entry order placed at 29822.5 with size 0.077
+@ 2023-07-31 06:26:00.260056 -> limit entry order canceled
+@ 2023-07-31 06:26:00.388734 -> Sell limit entry order placed at 29825.0 with size 0.077
+@ 2023-07-31 06:26:01.743583 -> limit entry order canceled
+@ 2023-07-31 12:36:08.785546 -> Sell limit entry order placed at 29835.0 with size 0.093
+@ 2023-07-31 12:36:10.434031 -> limit entry order canceled
+@ 2023-07-31 12:37:08.891167 -> Sell limit entry order placed at 29837.0 with size 0.094
+@ 2023-07-31 12:38:00.089190 -> limit entry order canceled
+@ 2023-07-31 13:53:25.785151 -> Buy limit entry order placed at 28963.0 with size 0.093
+@ 2023-07-31 13:54:00.160130 -> limit entry order canceled
+@ 2023-07-31 13:54:00.395775 -> Buy limit entry order placed at 28960.0 with size 0.093
+@ 2023-07-31 13:55:00.261806 -> limit entry order canceled
+@ 2023-07-31 13:55:00.395466 -> Buy limit entry order placed at 28956.5 with size 0.093
+@ 2023-07-31 13:56:00.107704 -> limit entry order canceled
+@ 2023-07-31 13:56:00.408858 -> Buy limit entry order placed at 28952.5 with size 0.093
+@ 2023-07-31 13:57:00.219394 -> limit entry order canceled
+@ 2023-07-31 13:57:00.395458 -> Buy limit entry order placed at 28949.0 with size 0.093
+@ 2023-07-31 13:58:00.263393 -> limit entry order canceled
+@ 2023-07-31 13:58:00.391380 -> Buy limit entry order placed at 28946.0 with size 0.093
+@ 2023-07-31 13:59:00.223392 -> limit entry order canceled
+@ 2023-07-31 13:59:00.383608 -> Buy limit entry order placed at 28943.0 with size 0.094
+@ 2023-07-31 13:59:49.944822 -> limit entry order canceled
+@ 2023-07-31 14:00:24.927728 -> Buy limit entry order placed at 28941.5 with size 0.094
+@ 2023-07-31 14:01:00.173744 -> limit entry order canceled
+@ 2023-07-31 14:01:00.388847 -> Buy limit entry order placed at 28938.5 with size 0.093
+@ 2023-07-31 14:02:00.199395 -> limit entry order canceled
+@ 2023-07-31 14:02:00.402892 -> Buy limit entry order placed at 28934.5 with size 0.094
+@ 2023-07-31 14:03:00.159082 -> limit entry order canceled
+@ 2023-07-31 14:03:00.448962 -> Buy limit entry order placed at 28931.5 with size 0.093
+@ 2023-07-31 14:04:00.054517 -> limit entry order canceled
+@ 2023-07-31 14:04:00.391395 -> Buy limit entry order placed at 28928.5 with size 0.094
+@ 2023-07-31 14:05:00.237844 -> limit entry order canceled
+@ 2023-07-31 14:06:00.419753 -> Buy limit entry order placed at 28924.5 with size 0.093
+@ 2023-07-31 14:06:57.025175 -> limit entry order canceled
+@ 2023-07-31 14:35:07.542411 -> Buy limit entry order placed at 28891.0 with size 0.094
+@ 2023-07-31 14:35:52.144252 -> limit entry order canceled
+@ 2023-07-31 14:36:09.912476 -> Buy limit entry order placed at 28889.5 with size 0.093
+@ 2023-07-31 14:37:00.193115 -> limit entry order canceled
+@ 2023-07-31 14:37:00.417550 -> Buy limit entry order placed at 28887.0 with size 0.093
+@ 2023-07-31 14:37:13.827944 -> limit entry order canceled
+@ 2023-07-31 14:37:16.606338 -> Buy limit entry order placed at 28887.0 with size 0.093
+@ 2023-07-31 14:37:20.853284 -> limit entry order canceled
+@ 2023-07-31 15:32:05.516973 -> Buy limit entry order placed at 28862.0 with size 0.094
+@ 2023-07-31 15:32:51.238027 -> limit entry order canceled
+@ 2023-07-31 15:41:42.078516 -> Buy limit entry order placed at 28853.0 with size 0.094
+@ 2023-07-31 15:42:00.191412 -> limit entry order canceled
+@ 2023-07-31 15:42:00.387325 -> Buy limit entry order placed at 28850.5 with size 0.093
+@ 2023-07-31 15:43:00.101553 -> limit entry order canceled
+@ 2023-07-31 15:43:00.375678 -> Buy limit entry order placed at 28848.0 with size 0.093
+@ 2023-07-31 15:44:00.297965 -> limit entry order canceled
+@ 2023-07-31 15:44:00.378382 -> Buy limit entry order placed at 28845.5 with size 0.093
+@ 2023-07-31 15:44:12.676047 -> limit entry order canceled
+@ 2023-07-31 15:45:00.890208 -> Buy limit entry order placed at 28843.0 with size 0.094
+@ 2023-07-31 15:46:00.192474 -> limit entry order canceled
+@ 2023-07-31 15:46:00.378378 -> Buy limit entry order placed at 28841.0 with size 0.093
+@ 2023-07-31 15:46:00.944371 -> limit entry order canceled
+@ 2023-07-31 15:50:54.837486 -> Buy limit entry order placed at 28836.0 with size 0.093
+@ 2023-07-31 15:51:00.114407 -> limit entry order canceled
+@ 2023-07-31 15:51:00.385384 -> Buy limit entry order placed at 28833.5 with size 0.093
+@ 2023-07-31 15:51:00.686204 -> limit entry order canceled
+@ 2023-07-31 15:53:10.895252 -> Buy limit entry order placed at 28830.5 with size 0.093
+@ 2023-07-31 15:53:22.738201 -> limit entry order canceled
+@ 2023-07-31 16:02:11.006455 -> Buy limit entry order placed at 28818.0 with size 0.093
+@ 2023-07-31 16:02:20.461485 -> limit entry order canceled
+@ 2023-07-31 16:08:53.800979 -> Buy limit entry order placed at 28812.0 with size 0.093
+@ 2023-07-31 16:09:00.130511 -> limit entry order canceled
+@ 2023-07-31 16:09:00.375670 -> Buy limit entry order placed at 28809.5 with size 0.093
+@ 2023-07-31 16:09:36.907239 -> limit entry order canceled
+@ 2023-07-31 16:10:15.403204 -> Buy limit entry order placed at 28807.5 with size 0.094
+@ 2023-07-31 16:11:00.066818 -> limit entry order canceled
+@ 2023-07-31 16:11:00.385520 -> Buy limit entry order placed at 28804.5 with size 0.093
+@ 2023-07-31 16:12:00.155005 -> limit entry order canceled
+@ 2023-07-31 16:12:00.389709 -> Buy limit entry order placed at 28801.5 with size 0.093
+@ 2023-07-31 16:12:23.065790 -> limit entry order canceled
+@ 2023-07-31 16:12:26.600643 -> Buy limit entry order placed at 28801.5 with size 0.093
+@ 2023-07-31 16:12:48.283767 -> limit entry order canceled
+@ 2023-07-31 16:13:01.380859 -> Buy limit entry order placed at 28799.5 with size 0.093
+@ 2023-07-31 16:14:00.076602 -> limit entry order canceled
+@ 2023-07-31 16:14:00.381958 -> Buy limit entry order placed at 28797.0 with size 0.093
+@ 2023-07-31 16:14:54.682424 -> limit entry order canceled
+@ 2023-07-31 16:15:10.388192 -> Buy limit entry order placed at 28794.5 with size 0.094
+@ 2023-07-31 16:16:00.190327 -> limit entry order canceled
+@ 2023-07-31 16:16:00.375522 -> Buy limit entry order placed at 28792.0 with size 0.094
+@ 2023-07-31 16:17:00.081006 -> limit entry order canceled
+@ 2023-07-31 16:17:00.393249 -> Buy limit entry order placed at 28789.5 with size 0.094
+@ 2023-07-31 16:17:17.657489 -> limit entry order canceled
+@ 2023-07-31 17:23:57.056297 -> Buy limit entry order placed at 28772.5 with size 0.093
+@ 2023-07-31 17:24:00.228210 -> limit entry order canceled
+@ 2023-07-31 17:24:30.662592 -> Buy limit entry order placed at 28770.5 with size 0.093
+@ 2023-07-31 17:24:45.519822 -> limit entry order canceled
+@ 2023-07-31 17:24:56.307062 -> Buy limit entry order placed at 28770.5 with size 0.093
+@ 2023-07-31 17:25:00.269915 -> limit entry order canceled
+@ 2023-07-31 17:25:00.373084 -> Buy limit entry order placed at 28768.0 with size 0.093
+@ 2023-07-31 17:26:00.282816 -> limit entry order canceled
+@ 2023-07-31 17:26:00.483577 -> Buy limit entry order placed at 28765.5 with size 0.094
+@ 2023-07-31 17:26:19.531944 -> limit entry order canceled
+@ 2023-07-31 17:27:14.656079 -> Buy limit entry order placed at 28764.0 with size 0.093
+@ 2023-07-31 17:28:00.215559 -> limit entry order canceled
+@ 2023-07-31 17:28:01.887006 -> Buy limit entry order placed at 28761.5 with size 0.094
+@ 2023-07-31 17:28:23.568801 -> limit entry order canceled
+@ 2023-07-31 17:46:53.321748 -> Sell limit entry order placed at 29629.5 with size 0.094
+@ 2023-07-31 17:47:00.139764 -> limit entry order canceled
+@ 2023-07-31 17:47:00.381013 -> Sell limit entry order placed at 29631.5 with size 0.093
+@ 2023-07-31 17:48:00.259168 -> limit entry order canceled
+@ 2023-07-31 17:48:00.379478 -> Sell limit entry order placed at 29634.5 with size 0.094
+@ 2023-07-31 17:49:00.178662 -> limit entry order canceled
+@ 2023-07-31 17:49:00.385628 -> Sell limit entry order placed at 29637.0 with size 0.093
+@ 2023-07-31 17:50:00.220885 -> limit entry order canceled
+@ 2023-07-31 17:50:00.391894 -> Sell limit entry order placed at 29640.0 with size 0.094
+@ 2023-07-31 17:50:19.712427 -> limit entry order canceled
+@ 2023-07-31 17:51:24.407365 -> Sell limit entry order placed at 29641.5 with size 0.094
+@ 2023-07-31 17:51:29.899849 -> limit entry order canceled
+@ 2023-07-31 18:21:47.569408 -> Buy limit entry order placed at 28757.5 with size 0.094
+@ 2023-07-31 18:22:00.131433 -> limit entry order canceled
+@ 2023-07-31 18:22:00.373000 -> Buy limit entry order placed at 28755.5 with size 0.093
+@ 2023-07-31 18:22:37.040247 -> limit entry order canceled
+@ 2023-07-31 18:22:56.333408 -> Buy limit entry order placed at 28755.5 with size 0.093
+@ 2023-07-31 18:23:00.283628 -> limit entry order canceled
+@ 2023-07-31 18:23:00.384427 -> Buy limit entry order placed at 28752.5 with size 0.094
+@ 2023-07-31 18:23:38.511962 -> limit entry order canceled
+@ 2023-07-31 19:58:31.785999 -> Buy limit entry order placed at 28768.0 with size 0.094
+@ 2023-07-31 19:59:00.163182 -> limit entry order canceled
+@ 2023-07-31 19:59:00.374585 -> Buy limit entry order placed at 28764.5 with size 0.093
+@ 2023-07-31 19:59:54.595038 -> limit entry order canceled
+@ 2023-07-31 19:59:54.630860 -> Buy limit entry order placed at 28764.5 with size 0.093
+@ 2023-07-31 20:00:00.130871 -> limit entry order canceled
+@ 2023-07-31 20:00:00.376540 -> Buy limit entry order placed at 28762.0 with size 0.093
+@ 2023-07-31 20:00:21.315072 -> limit entry order canceled
+@ 2023-07-31 20:00:32.601447 -> Buy limit entry order placed at 28762.0 with size 0.093
+@ 2023-07-31 20:00:38.622046 -> limit entry order canceled
+@ 2023-07-31 20:02:10.151209 -> Buy limit entry order placed at 28758.5 with size 0.094
+@ 2023-07-31 20:02:15.644307 -> limit entry order canceled
+@ 2023-07-31 20:04:07.398147 -> Buy limit entry order placed at 28755.0 with size 0.094
+@ 2023-07-31 20:05:00.175574 -> limit entry order canceled
+@ 2023-07-31 20:05:00.376146 -> Buy limit entry order placed at 28751.5 with size 0.094
+@ 2023-07-31 20:05:47.508782 -> limit entry order canceled
+@ 2023-07-31 20:05:54.540741 -> Buy limit entry order placed at 28751.5 with size 0.094
+@ 2023-07-31 20:06:00.037514 -> limit entry order canceled
+@ 2023-07-31 20:06:31.921085 -> Buy limit entry order placed at 28749.5 with size 0.094
+@ 2023-07-31 20:06:41.562435 -> limit entry order canceled
+@ 2023-07-31 20:06:57.100019 -> Buy limit entry order placed at 28749.5 with size 0.094
+@ 2023-07-31 20:07:00.283421 -> limit entry order canceled
+@ 2023-07-31 20:07:00.372794 -> Buy limit entry order placed at 28747.0 with size 0.094
+@ 2023-07-31 20:07:19.400350 -> limit entry order canceled
+@ 2023-07-31 20:24:46.296645 -> Sell limit entry order placed at 29630.0 with size 0.093
+@ 2023-07-31 20:25:00.101743 -> limit entry order canceled
+@ 2023-07-31 20:31:17.377343 -> Sell limit entry order placed at 29640.5 with size 0.093
+@ 2023-07-31 20:32:00.249537 -> limit entry order canceled
+@ 2023-07-31 20:44:40.535283 -> Buy limit entry order placed at 28776.5 with size 0.093
+@ 2023-07-31 20:45:00.076677 -> limit entry order canceled
+@ 2023-07-31 20:45:00.373587 -> Buy limit entry order placed at 28774.0 with size 0.093
+@ 2023-07-31 20:45:26.615013 -> limit entry order canceled
+@ 2023-07-31 20:45:38.150816 -> Buy limit entry order placed at 28774.0 with size 0.093
+@ 2023-07-31 20:46:00.253348 -> limit entry order canceled
+@ 2023-07-31 20:46:00.381689 -> Buy limit entry order placed at 28771.5 with size 0.094
+@ 2023-07-31 20:47:00.168678 -> limit entry order canceled
+@ 2023-07-31 20:47:00.374723 -> Buy limit entry order placed at 28768.0 with size 0.093
+@ 2023-07-31 20:48:00.164745 -> limit entry order canceled
+@ 2023-07-31 20:48:00.373197 -> Buy limit entry order placed at 28765.0 with size 0.094
+@ 2023-07-31 20:48:13.900448 -> limit entry order canceled
+@ 2023-07-31 21:05:36.051354 -> Buy limit entry order placed at 28754.5 with size 0.094
+@ 2023-07-31 21:05:46.245928 -> limit entry order canceled
+@ 2023-07-31 21:21:17.508600 -> Sell limit entry order placed at 29634.0 with size 0.094
+@ 2023-07-31 21:22:00.114657 -> limit entry order canceled
+@ 2023-07-31 21:22:00.372417 -> Sell limit entry order placed at 29637.0 with size 0.093
+@ 2023-07-31 21:23:00.146902 -> limit entry order canceled
+@ 2023-07-31 21:23:00.379413 -> Sell limit entry order placed at 29640.5 with size 0.094
+@ 2023-07-31 21:24:00.103769 -> limit entry order canceled
+@ 2023-08-01 01:04:15.795258 -> Sell limit entry order placed at 29697.0 with size 0.093
+@ 2023-08-01 01:05:00.080851 -> limit entry order canceled
+@ 2023-08-01 01:05:00.390623 -> Sell limit entry order placed at 29700.5 with size 0.093
+@ 2023-08-01 01:06:00.202216 -> limit entry order canceled
+@ 2023-08-01 01:06:00.376548 -> Sell limit entry order placed at 29703.5 with size 0.094
+@ 2023-08-01 01:07:00.043960 -> limit entry order canceled
+@ 2023-08-01 01:07:00.377431 -> Sell limit entry order placed at 29706.0 with size 0.094
+@ 2023-08-01 01:07:35.975369 -> limit entry order canceled
+@ 2023-08-01 01:10:25.408103 -> Sell limit entry order placed at 29711.5 with size 0.093
+@ 2023-08-01 01:11:00.267527 -> limit entry order canceled
+@ 2023-08-01 01:11:00.376360 -> Sell limit entry order placed at 29714.0 with size 0.093
+@ 2023-08-01 01:12:00.185364 -> limit entry order canceled
+@ 2023-08-01 01:12:00.373242 -> Sell limit entry order placed at 29717.0 with size 0.093
+@ 2023-08-01 01:13:00.240500 -> limit entry order canceled
+@ 2023-08-01 01:13:00.378567 -> Sell limit entry order placed at 29719.5 with size 0.093
+@ 2023-08-01 01:14:00.115359 -> limit entry order canceled
+@ 2023-08-01 01:33:00.358660 -> Buy limit entry order placed at 28835.0 with size 0.094
+@ 2023-08-01 01:33:00.404107 -> limit entry order canceled
+@ 2023-08-01 01:33:12.953918 -> Buy limit entry order placed at 28833.0 with size 0.094
+@ 2023-08-01 01:34:00.072011 -> limit entry order canceled
+@ 2023-08-01 01:34:00.383449 -> Buy limit entry order placed at 28830.5 with size 0.094
+@ 2023-08-01 01:35:00.192321 -> limit entry order canceled
+@ 2023-08-01 01:35:00.377574 -> Buy limit entry order placed at 28828.0 with size 0.094
+@ 2023-08-01 01:35:11.837688 -> limit entry order canceled
+@ 2023-08-01 01:51:00.090117 -> Buy limit entry order placed at 28809.0 with size 0.094
+@ 2023-08-01 01:51:00.144413 -> limit entry order canceled
+@ 2023-08-01 01:51:00.389875 -> Buy limit entry order placed at 28806.5 with size 0.094
+@ 2023-08-01 01:51:06.671273 -> limit entry order canceled
+@ 2023-08-01 01:51:36.227114 -> Buy limit entry order placed at 28806.5 with size 0.094
+@ 2023-08-01 01:52:00.201615 -> limit entry order canceled
+@ 2023-08-01 01:52:45.181295 -> Buy limit entry order placed at 28804.5 with size 0.093
+@ 2023-08-01 01:53:00.289336 -> limit entry order canceled
+@ 2023-08-01 01:53:00.373061 -> Buy limit entry order placed at 28802.0 with size 0.094
+@ 2023-08-01 01:54:00.124352 -> limit entry order canceled
+@ 2023-08-01 01:54:00.385674 -> Buy limit entry order placed at 28799.0 with size 0.094
+@ 2023-08-01 01:55:00.041873 -> limit entry order canceled
+@ 2023-08-01 01:55:00.374637 -> Buy limit entry order placed at 28796.0 with size 0.094
+@ 2023-08-01 01:56:00.175151 -> limit entry order canceled
+@ 2023-08-01 01:56:00.392427 -> Buy limit entry order placed at 28792.5 with size 0.093
+@ 2023-08-01 01:57:00.163633 -> limit entry order canceled
+@ 2023-08-01 01:57:00.377861 -> Buy limit entry order placed at 28790.0 with size 0.093
+@ 2023-08-01 01:58:00.161648 -> limit entry order canceled
+@ 2023-08-01 01:58:00.372523 -> Buy limit entry order placed at 28787.5 with size 0.094
+@ 2023-08-01 01:58:01.702602 -> limit entry order canceled
+@ 2023-08-01 02:09:35.565909 -> Buy limit entry order placed at 28775.5 with size 0.094
+@ 2023-08-01 02:10:00.297378 -> limit entry order canceled
+@ 2023-08-01 02:10:00.391181 -> Buy limit entry order placed at 28765.5 with size 0.094
+@ 2023-08-01 02:10:32.080860 -> limit entry order filled completely
+@ 2023-08-01 02:10:32.080939 -> completely filled size: 0.094
+@ 2023-08-01 02:10:32.080994 -> stop loss is at 28680.5
+@ 2023-08-01 02:10:32.306653 -> Sell take profit order placed at 28783.0 with size 0.094
+@ 2023-08-01 02:10:37.167552 -> Sell take profit order at 28783.0 with size 0.094 canceled
+@ 2023-08-01 02:10:37.169528 -> starting stop loss filling using SplitFillingAndRapid
+@ 2023-08-01 02:10:37.191866 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:37.205837 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28682.00 ask: 28682.10
+@ 2023-08-01 02:10:38.175355 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:38.184386 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28695.80 ask: 28696.60
+@ 2023-08-01 02:10:38.272887 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:38.286561 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.304577 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:38.309095 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:38.317174 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.323706 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.349029 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:38.351589 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:38.360606 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:38.362303 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.362787 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.366000 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:38.369513 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.388497 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28703.80 ask: 28703.90
+@ 2023-08-01 02:10:38.902864 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:38.905576 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:38.910423 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:38.913723 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:38.913814 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:38.913871 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:38.913923 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:38.915085 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:38.919570 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28716.10 ask: 28716.30
+@ 2023-08-01 02:10:38.919639 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28716.20 ask: 28716.30
+@ 2023-08-01 02:10:38.923887 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:38.927085 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28716.20 ask: 28716.30
+@ 2023-08-01 02:10:38.927540 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28716.20 ask: 28716.30
+@ 2023-08-01 02:10:38.927927 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28716.20 ask: 28716.30
+@ 2023-08-01 02:10:38.931880 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28716.70 ask: 28717.20
+@ 2023-08-01 02:10:38.931950 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28716.70 ask: 28717.20
+@ 2023-08-01 02:10:38.936255 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28716.70 ask: 28717.20
+@ 2023-08-01 02:10:38.938798 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28716.70 ask: 28717.20
+@ 2023-08-01 02:10:39.461891 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:39.461965 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:39.462019 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:39.464539 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:39.464607 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:39.467274 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28709.50 ask: 28709.60
+@ 2023-08-01 02:10:39.469634 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28709.50 ask: 28709.60
+@ 2023-08-01 02:10:39.474546 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28709.50 ask: 28709.60
+@ 2023-08-01 02:10:39.476039 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28709.50 ask: 28709.60
+@ 2023-08-01 02:10:39.481476 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28709.50 ask: 28709.60
+@ 2023-08-01 02:10:40.473680 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:40.473756 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:40.475693 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:40.481663 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:40.482836 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28715.10 ask: 28715.20
+@ 2023-08-01 02:10:40.487876 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28715.10 ask: 28715.20
+@ 2023-08-01 02:10:40.487979 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28715.10 ask: 28715.20
+@ 2023-08-01 02:10:40.492953 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28715.10 ask: 28715.20
+@ 2023-08-01 02:10:41.014098 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:41.014231 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:41.016595 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:41.016662 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:41.026813 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:41.026886 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28730.60 ask: 28730.70
+@ 2023-08-01 02:10:41.026940 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:41.026989 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:41.027036 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:41.027083 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:41.031229 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.042987 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.043053 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.043105 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.043154 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.043201 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28730.80 ask: 28730.90
+@ 2023-08-01 02:10:41.044127 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28731.60 ask: 28731.90
+@ 2023-08-01 02:10:41.045211 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28731.60 ask: 28731.90
+@ 2023-08-01 02:10:41.559344 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:41.559423 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:41.562539 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:41.562609 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:41.562662 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:41.570796 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:41.570875 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:41.573914 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:41.577482 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:41.579029 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:41.580652 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:41.581835 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28745.90 ask: 28746.00
+@ 2023-08-01 02:10:42.575952 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:42.588386 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28738.20 ask: 28738.30
+@ 2023-08-01 02:10:42.588486 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:42.588557 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:42.600154 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28738.20 ask: 28738.30
+@ 2023-08-01 02:10:42.601306 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28738.20 ask: 28738.30
+@ 2023-08-01 02:10:43.125824 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:43.125900 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:43.135356 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:43.135427 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:43.135480 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:43.135530 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:43.139092 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:43.139284 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:43.144863 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:43.144934 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.144987 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.145038 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.146958 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.147031 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.150488 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.150573 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.152615 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.152681 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28751.20 ask: 28751.30
+@ 2023-08-01 02:10:43.665015 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:43.668937 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:43.670987 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:43.671055 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:43.671108 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:43.677933 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:43.684142 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:43.684290 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:43.684952 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:43.688182 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:43.691943 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:43.692016 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28743.90 ask: 28744.00
+@ 2023-08-01 02:10:44.684015 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:44.687238 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:44.693334 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:44.695605 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28746.40 ask: 28746.50
+@ 2023-08-01 02:10:44.695791 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28746.40 ask: 28746.50
+@ 2023-08-01 02:10:44.700535 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28746.40 ask: 28746.50
+@ 2023-08-01 02:10:45.214139 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:45.219302 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:45.219684 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:45.222323 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:45.223359 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:45.223806 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:45.229659 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:45.229732 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.232371 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.232437 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.232960 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:45.237554 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.237628 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.238619 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.244902 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:45.244971 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.245024 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.251310 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28754.60 ask: 28754.70
+@ 2023-08-01 02:10:45.767686 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:45.767764 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:45.776440 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:45.776508 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:45.776561 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:45.776611 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:45.778971 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:45.780942 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:45.785759 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:45.785826 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:45.789483 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:45.793486 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28759.60 ask: 28759.70
+@ 2023-08-01 02:10:46.782884 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:46.784752 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:46.786625 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:46.791005 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:46.792318 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:46.798605 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.311149 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:47.314453 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:47.318058 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:47.318145 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:47.322826 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:47.322897 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:47.322962 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:47.324867 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.324931 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.327709 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:47.327776 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.330889 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.335428 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.336644 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:47.336810 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.342651 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.343790 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.350673 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28770.70 ask: 28770.80
+@ 2023-08-01 02:10:47.864673 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:47.864756 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:47.869319 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:47.869386 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:47.871469 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:47.874710 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:47.875683 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:47.880670 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:47.882480 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:47.885077 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:47.887089 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:47.893528 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28784.30 ask: 28784.40
+@ 2023-08-01 02:10:48.883078 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:48.890004 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:48.897157 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:48.899355 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28789.90 ask: 28790.00
+@ 2023-08-01 02:10:48.899424 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28789.90 ask: 28790.00
+@ 2023-08-01 02:10:48.905266 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28789.90 ask: 28790.00
+@ 2023-08-01 02:10:49.416732 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:49.422736 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:49.424786 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:49.424892 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:49.426311 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:49.427025 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:49.430865 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:49.430933 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:49.431721 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.432714 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.432928 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:49.439251 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.439318 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.442411 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.443530 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.446485 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.449939 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.451257 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28790.20 ask: 28790.30
+@ 2023-08-01 02:10:49.965511 -> Sell limit stop loss order placed at 28680.7 with size 0.011
+@ 2023-08-01 02:10:49.977127 -> Sell limit stop loss order placed at 28680.8 with size 0.011
+@ 2023-08-01 02:10:49.977208 -> Sell limit stop loss order placed at 28681.0 with size 0.01
+@ 2023-08-01 02:10:49.977263 -> Sell limit stop loss order placed at 28681.1 with size 0.01
+@ 2023-08-01 02:10:49.977314 -> Sell limit stop loss order placed at 28680.6 with size 0.011
+@ 2023-08-01 02:10:49.977362 -> Sell limit stop loss order placed at 28680.9 with size 0.011
+@ 2023-08-01 02:10:49.977409 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28772.20 ask: 28772.40
+@ 2023-08-01 02:10:49.977457 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28772.20 ask: 28772.40
+@ 2023-08-01 02:10:49.986576 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28772.30 ask: 28772.40
+@ 2023-08-01 02:10:49.988408 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28772.30 ask: 28772.40
+@ 2023-08-01 02:10:49.988512 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28772.30 ask: 28772.40
+@ 2023-08-01 02:10:49.989429 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28772.30 ask: 28772.40
+@ 2023-08-01 02:10:50.981857 -> Sell limit stop loss order placed at 28681.2 with size 0.01
+@ 2023-08-01 02:10:50.985326 -> Sell limit stop loss order placed at 28681.4 with size 0.01
+@ 2023-08-01 02:10:50.989340 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:50.992049 -> Sell limit stop loss order placed at 28681.3 with size 0.01
+@ 2023-08-01 02:10:50.993157 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.000847 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.528707 -> placing Sell limit stop loss order at 28680.6 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.535777 -> placing Sell limit stop loss order at 28680.8 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.536328 -> placing Sell limit stop loss order at 28680.7 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.536397 -> placing Sell limit stop loss order at 28680.9 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.538521 -> placing Sell limit stop loss order at 28681.1 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.539042 -> placing Sell limit stop loss order at 28681.0 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.540598 -> placing Sell limit stop loss order at 28681.3 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.550242 -> placing Sell limit stop loss order at 28681.2 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.550495 -> placing Sell limit stop loss order at 28681.4 not possible, bid: 28783.20 ask: 28783.30
+@ 2023-08-01 02:10:51.550586 -> starting stop loss filling using OnlyRapidWithTakerBoundary
+@ 2023-08-01 02:10:51.550641 -> abort stop loss filling (stop_loss_filling.py)

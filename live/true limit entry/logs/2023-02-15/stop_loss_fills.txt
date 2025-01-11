@@ -1,0 +1,1 @@
+sl_id_1,1676493260.691172,Buy,limit,24174.5,24199.0,24.5,0.27,222.5,OnlyRapidWithTakerBoundary,0.5389626

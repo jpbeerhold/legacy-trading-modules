@@ -1,0 +1,19 @@
+@ 2023-04-24 14:06:11.601518 -> server started
+@ 2023-04-24 14:06:43.224786 -> new client at ticker_socket
+@ 2023-04-24 14:06:43.225008 -> connection to DoSe4582 established
+@ 2023-04-24 14:24:11.281609 -> new client at ticker_socket
+@ 2023-04-24 14:24:11.281843 -> connection to DoSe68685 established
+@ 2023-04-24 14:25:02.944732 -> client DoSe68685 offline
+@ 2023-04-24 14:25:56.103433 -> new client at ticker_socket
+@ 2023-04-24 14:25:56.103575 -> connection to DoSe68685 established
+@ 2023-04-24 14:26:59.795395 -> new client at ticker_socket
+@ 2023-04-24 14:26:59.795625 -> connection to DoSe2182 established
+@ 2023-04-24 14:27:52.160755 -> new client at ticker_socket
+@ 2023-04-24 14:27:52.160988 -> connection to DoSe2185 established
+@ 2023-04-26 20:12:01.226012 -> client DoSe4582 offline
+@ 2023-05-04 10:35:29.427445 -> client DoSe2185 offline
+@ 2023-05-04 12:47:38.618619 -> new client at ticker_socket
+@ 2023-05-04 12:47:38.618768 -> connection to DoSe2185 established
+@ 2023-05-10 17:15:45.521354 -> client DoSe68685 offline
+@ 2023-05-11 08:18:56.944701 -> client DoSe2182 offline
+@ 2023-05-11 08:19:23.645303 -> client DoSe2185 offline

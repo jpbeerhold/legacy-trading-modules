@@ -1,0 +1,198 @@
+@ 2023-02-15 19:59:00 -> leverage changed to 41.53745597153128290787610298
+@ 2023-02-15 19:59:00 -> Sell limit entry order placed at 23575.0 with size 0.27
+@ 2023-02-15 20:00:00 -> limit entry order canceled
+@ 2023-02-15 20:00:00 -> Sell limit entry order placed at 23579.0 with size 0.27
+@ 2023-02-15 20:01:00 -> limit entry order canceled
+@ 2023-02-15 20:01:00 -> Sell limit entry order placed at 23582.0 with size 0.27
+@ 2023-02-15 20:02:00 -> limit entry order canceled
+@ 2023-02-15 20:02:00 -> leverage changed to 41.51145287364660222347159003
+@ 2023-02-15 20:02:00 -> Sell limit entry order placed at 23586.0 with size 0.27
+@ 2023-02-15 20:03:00 -> limit entry order canceled
+@ 2023-02-15 20:03:00 -> Sell limit entry order placed at 23591.0 with size 0.27
+@ 2023-02-15 20:04:00 -> limit entry order canceled
+@ 2023-02-15 20:04:00 -> Sell limit entry order placed at 23597.0 with size 0.27
+@ 2023-02-15 20:05:00 -> limit entry order canceled
+@ 2023-02-15 20:05:00 -> Sell limit entry order placed at 23602.0 with size 0.27
+@ 2023-02-15 20:06:00 -> limit entry order canceled
+@ 2023-02-15 20:06:00 -> Sell limit entry order placed at 23608.0 with size 0.27
+@ 2023-02-15 20:07:00 -> limit entry order canceled
+@ 2023-02-15 20:07:00 -> Sell limit entry order placed at 23613.5 with size 0.27
+@ 2023-02-15 20:08:00 -> limit entry order canceled
+@ 2023-02-15 20:08:00 -> Sell limit entry order placed at 23620.5 with size 0.27
+@ 2023-02-15 20:09:00 -> limit entry order canceled
+@ 2023-02-15 20:09:00 -> Sell limit entry order placed at 23632.5 with size 0.27
+@ 2023-02-15 20:10:00 -> limit entry order canceled
+@ 2023-02-15 20:10:00 -> Sell limit entry order placed at 23645.0 with size 0.27
+@ 2023-02-15 20:11:00 -> limit entry order canceled
+@ 2023-02-15 20:11:00 -> Sell limit entry order placed at 23658.0 with size 0.27
+@ 2023-02-15 20:11:35 -> limit entry order filled completely
+@ 2023-02-15 20:11:35 -> completely filled size: 0.27
+@ 2023-02-15 20:11:35 -> stop loss is at 23880.0
+@ 2023-02-15 20:11:35 -> Buy take profit order placed at 23613.5 with size 0.27
+@ 2023-02-15 20:13:45 -> take profit order filled completely
+@ 2023-02-15 20:13:45 -> take profit order filled size: 0.27
+@ 2023-02-15 20:13:45 -> ----------------------------------------
+@ 2023-02-15 20:14:00 -> Sell limit entry order placed at 23706.0 with size 0.27
+@ 2023-02-15 20:15:00 -> limit entry order canceled
+@ 2023-02-15 20:15:00 -> Sell limit entry order placed at 23720.0 with size 0.27
+@ 2023-02-15 20:16:00 -> limit entry order canceled
+@ 2023-02-15 20:16:00 -> Sell limit entry order placed at 23735.0 with size 0.27
+@ 2023-02-15 20:16:56 -> limit entry order filled completely
+@ 2023-02-15 20:16:56 -> completely filled size: 0.27
+@ 2023-02-15 20:16:56 -> stop loss is at 23957.0
+@ 2023-02-15 20:16:56 -> Buy take profit order placed at 23690.5 with size 0.27
+@ 2023-02-15 20:18:56 -> take profit order filled completely
+@ 2023-02-15 20:18:56 -> take profit order filled size: 0.27
+@ 2023-02-15 20:18:56 -> ----------------------------------------
+@ 2023-02-15 20:19:00 -> Sell limit entry order placed at 23783.0 with size 0.27
+@ 2023-02-15 20:20:00 -> limit entry order canceled
+@ 2023-02-15 20:20:00 -> Sell limit entry order placed at 23797.5 with size 0.27
+@ 2023-02-15 20:20:26 -> limit entry order filled completely
+@ 2023-02-15 20:20:26 -> completely filled size: 0.27
+@ 2023-02-15 20:20:26 -> stop loss is at 24020.0
+@ 2023-02-15 20:20:26 -> Buy take profit order placed at 23753.0 with size 0.27
+@ 2023-02-15 20:22:17 -> take profit order filled completely
+@ 2023-02-15 20:22:17 -> take profit order filled size: 0.27
+@ 2023-02-15 20:22:17 -> ----------------------------------------
+@ 2023-02-15 20:23:00 -> Sell limit entry order placed at 23845.5 with size 0.27
+@ 2023-02-15 20:24:00 -> limit entry order canceled
+@ 2023-02-15 20:24:00 -> Sell limit entry order placed at 23860.5 with size 0.27
+@ 2023-02-15 20:25:00 -> limit entry order canceled
+@ 2023-02-15 20:25:00 -> Sell limit entry order placed at 23875.0 with size 0.27
+@ 2023-02-15 20:26:00 -> limit entry order canceled
+@ 2023-02-15 20:26:00 -> Sell limit entry order placed at 23887.5 with size 0.27
+@ 2023-02-15 20:27:00 -> limit entry order canceled
+@ 2023-02-15 20:27:00 -> Sell limit entry order placed at 23902.0 with size 0.27
+@ 2023-02-15 20:28:00 -> limit entry order canceled
+@ 2023-02-15 20:28:00 -> Sell limit entry order placed at 23915.0 with size 0.27
+@ 2023-02-15 20:29:00 -> limit entry order canceled
+@ 2023-02-15 20:29:00 -> Sell limit entry order placed at 23926.0 with size 0.27
+@ 2023-02-15 20:30:00 -> limit entry order canceled
+@ 2023-02-15 20:30:00 -> Sell limit entry order placed at 23938.0 with size 0.27
+@ 2023-02-15 20:31:00 -> limit entry order canceled
+@ 2023-02-15 20:31:00 -> Sell limit entry order placed at 23952.0 with size 0.27
+@ 2023-02-15 20:31:43 -> limit entry order filled completely
+@ 2023-02-15 20:31:43 -> completely filled size: 0.27
+@ 2023-02-15 20:31:43 -> stop loss is at 24174.5
+@ 2023-02-15 20:31:43 -> Buy take profit order placed at 23907.5 with size 0.27
+@ 2023-02-15 20:34:20 -> Buy take profit order at 23907.5 with size 0.27 canceled
+@ 2023-02-15 20:34:20 -> starting stop loss filling
+@ 2023-02-15 20:34:20 -> Buy limit stop loss order placed at 24192.2 with size 0.27
+@ 2023-02-15 20:34:20 -> place new limit order (stop_loss_filling.py)
+@ 2023-02-15 20:34:20 -> Buy stop loss order at 24192.2 with size 0.27 canceled
+@ 2023-02-15 20:34:20 -> Buy limit stop loss order placed at 24198.5 with size 0.27
+@ 2023-02-15 20:34:20 -> place new limit order (stop_loss_filling.py)
+@ 2023-02-15 20:34:20 -> Buy stop loss order at 24198.5 with size 0.27 canceled
+@ 2023-02-15 20:34:20 -> Buy limit stop loss order at 24199.0 with size 0 filled completely
+@ 2023-02-15 20:34:20 -> limit stop loss order filled completely (stop_loss_filling.py)
+@ 2023-02-15 20:34:20 -> limit stop loss order filled completely
+@ 2023-02-15 20:34:20 -> ----------------------------------------
+@ 2023-02-15 20:37:00 -> Sell limit entry order placed at 24083.0 with size 0.27
+@ 2023-02-15 20:37:03 -> limit entry order filled completely
+@ 2023-02-15 20:37:03 -> completely filled size: 0.27
+@ 2023-02-15 20:37:03 -> stop loss is at 24305.5
+@ 2023-02-15 20:37:03 -> Buy take profit order placed at 24038.5 with size 0.27
+@ 2023-02-15 20:37:13 -> take profit order filled completely
+@ 2023-02-15 20:37:13 -> take profit order filled size: 0.27
+@ 2023-02-15 20:37:13 -> ----------------------------------------
+@ 2023-02-15 20:38:00 -> Sell limit entry order placed at 24099.5 with size 0.27
+@ 2023-02-15 20:38:31 -> limit entry order filled completely
+@ 2023-02-15 20:38:31 -> completely filled size: 0.27
+@ 2023-02-15 20:38:31 -> stop loss is at 24322.0
+@ 2023-02-15 20:38:32 -> Buy take profit order placed at 24055.0 with size 0.27
+@ 2023-02-15 20:40:51 -> take profit order filled completely
+@ 2023-02-15 20:40:51 -> take profit order filled size: 0.27
+@ 2023-02-15 20:40:51 -> ----------------------------------------
+@ 2023-02-15 20:41:00 -> Sell limit entry order placed at 24151.0 with size 0.27
+@ 2023-02-15 20:42:00 -> limit entry order canceled
+@ 2023-02-15 20:42:00 -> Sell limit entry order placed at 24165.0 with size 0.27
+@ 2023-02-15 20:43:00 -> limit entry order canceled
+@ 2023-02-15 20:43:00 -> Sell limit entry order placed at 24178.0 with size 0.27
+@ 2023-02-15 20:44:00 -> limit entry order canceled
+@ 2023-02-15 20:44:00 -> Sell limit entry order placed at 24190.0 with size 0.27
+@ 2023-02-15 20:45:00 -> limit entry order canceled
+@ 2023-02-15 20:45:00 -> Sell limit entry order placed at 24200.5 with size 0.27
+@ 2023-02-15 20:46:00 -> limit entry order canceled
+@ 2023-02-15 20:46:00 -> Sell limit entry order placed at 24211.0 with size 0.27
+@ 2023-02-15 20:47:00 -> limit entry order canceled
+@ 2023-02-15 20:47:00 -> Sell limit entry order placed at 24221.0 with size 0.27
+@ 2023-02-15 20:48:00 -> limit entry order canceled
+@ 2023-02-15 20:48:00 -> Sell limit entry order placed at 24234.5 with size 0.27
+@ 2023-02-15 20:49:00 -> limit entry order canceled
+@ 2023-02-15 20:49:00 -> Sell limit entry order placed at 24248.0 with size 0.27
+@ 2023-02-15 20:50:00 -> limit entry order canceled
+@ 2023-02-15 20:50:00 -> Sell limit entry order placed at 24258.5 with size 0.27
+@ 2023-02-15 20:51:00 -> limit entry order canceled
+@ 2023-02-15 20:51:00 -> Sell limit entry order placed at 24267.5 with size 0.27
+@ 2023-02-15 20:52:00 -> limit entry order canceled
+@ 2023-02-15 20:52:00 -> Sell limit entry order placed at 24275.5 with size 0.27
+@ 2023-02-15 20:53:00 -> limit entry order canceled
+@ 2023-02-15 20:53:00 -> Sell limit entry order placed at 24284.5 with size 0.27
+@ 2023-02-15 20:54:00 -> limit entry order canceled
+@ 2023-02-15 20:54:00 -> Sell limit entry order placed at 24294.0 with size 0.27
+@ 2023-02-15 20:55:00 -> limit entry order canceled
+@ 2023-02-15 20:55:00 -> Sell limit entry order placed at 24304.5 with size 0.27
+@ 2023-02-15 20:56:00 -> limit entry order canceled
+@ 2023-02-15 20:56:00 -> Sell limit entry order placed at 24314.5 with size 0.27
+@ 2023-02-15 20:57:00 -> limit entry order canceled
+@ 2023-02-15 20:57:00 -> Sell limit entry order placed at 24321.0 with size 0.27
+@ 2023-02-15 20:58:00 -> limit entry order canceled
+@ 2023-02-15 20:58:00 -> Sell limit entry order placed at 24328.5 with size 0.27
+@ 2023-02-15 20:59:00 -> limit entry order canceled
+@ 2023-02-15 20:59:00 -> Sell limit entry order placed at 24336.5 with size 0.27
+@ 2023-02-15 21:00:00 -> limit entry order canceled
+@ 2023-02-15 21:00:00 -> Sell limit entry order placed at 24345.0 with size 0.27
+@ 2023-02-15 21:01:00 -> limit entry order canceled
+@ 2023-02-15 21:01:00 -> Sell limit entry order placed at 24351.5 with size 0.27
+@ 2023-02-15 21:02:00 -> limit entry order canceled
+@ 2023-02-15 21:02:00 -> Sell limit entry order placed at 24358.5 with size 0.27
+@ 2023-02-15 21:03:00 -> limit entry order canceled
+@ 2023-02-15 21:03:00 -> Sell limit entry order placed at 24363.0 with size 0.27
+@ 2023-02-15 21:04:00 -> limit entry order canceled
+@ 2023-02-15 21:04:00 -> Sell limit entry order placed at 24367.5 with size 0.27
+@ 2023-02-15 21:05:00 -> limit entry order canceled
+@ 2023-02-15 21:05:00 -> Sell limit entry order placed at 24372.0 with size 0.27
+@ 2023-02-15 21:06:00 -> limit entry order canceled
+@ 2023-02-15 21:06:00 -> Sell limit entry order placed at 24378.0 with size 0.27
+@ 2023-02-15 21:07:00 -> limit entry order canceled
+@ 2023-02-15 21:07:00 -> Sell limit entry order placed at 24382.0 with size 0.27
+@ 2023-02-15 21:08:00 -> limit entry order canceled
+@ 2023-02-15 21:08:00 -> Sell limit entry order placed at 24387.0 with size 0.27
+@ 2023-02-15 21:09:00 -> limit entry order canceled
+@ 2023-02-15 21:09:00 -> Sell limit entry order placed at 24390.5 with size 0.27
+@ 2023-02-15 21:10:00 -> limit entry order canceled
+@ 2023-02-15 21:10:00 -> Sell limit entry order placed at 24394.0 with size 0.27
+@ 2023-02-15 21:11:00 -> limit entry order canceled
+@ 2023-02-15 21:11:00 -> Sell limit entry order placed at 24397.0 with size 0.27
+@ 2023-02-15 21:11:31 -> limit entry order canceled
+@ 2023-02-15 21:11:32 -> Sell limit entry order placed at 24397.0 with size 0.27
+@ 2023-02-15 21:11:33 -> limit entry order canceled
+@ 2023-02-15 21:11:34 -> Sell limit entry order placed at 24397.0 with size 0.27
+@ 2023-02-15 21:11:36 -> limit entry order canceled
+@ 2023-02-15 21:11:37 -> Sell limit entry order placed at 24397.0 with size 0.27
+@ 2023-02-15 21:11:38 -> limit entry order canceled
+@ 2023-02-15 21:11:38 -> Sell limit entry order placed at 24397.0 with size 0.27
+@ 2023-02-15 21:11:39 -> limit entry order canceled
+@ 2023-02-15 21:13:35 -> Buy limit entry order placed at 23677.0 with size 0.27
+@ 2023-02-15 21:13:35 -> limit entry order canceled
+@ 2023-02-15 21:15:18 -> Sell limit entry order placed at 24399.0 with size 0.27
+@ 2023-02-15 21:16:00 -> limit entry order canceled
+@ 2023-02-15 21:16:00 -> Sell limit entry order placed at 24401.5 with size 0.27
+@ 2023-02-15 21:16:08 -> limit entry order canceled
+@ 2023-02-15 21:16:11 -> Sell limit entry order placed at 24401.5 with size 0.27
+@ 2023-02-15 21:16:37 -> limit entry order canceled
+@ 2023-02-15 21:16:59 -> Sell limit entry order placed at 24401.5 with size 0.27
+@ 2023-02-15 21:17:00 -> limit entry order canceled
+@ 2023-02-15 21:17:21 -> Sell limit entry order placed at 24403.5 with size 0.27
+@ 2023-02-15 21:17:22 -> limit entry order canceled
+@ 2023-02-15 21:17:23 -> Sell limit entry order placed at 24403.5 with size 0.27
+@ 2023-02-15 21:17:36 -> limit entry order canceled
+@ 2023-02-15 21:17:36 -> Sell limit entry order placed at 24403.5 with size 0.27
+@ 2023-02-15 21:17:54 -> limit entry order canceled
+@ 2023-02-15 21:18:10 -> Sell limit entry order placed at 24405.0 with size 0.27
+@ 2023-02-15 21:19:00 -> limit entry order canceled
+@ 2023-02-15 21:19:00 -> Sell limit entry order placed at 24407.5 with size 0.27
+@ 2023-02-15 21:20:00 -> limit entry order canceled
+@ 2023-02-15 21:20:00 -> Sell limit entry order placed at 24409.5 with size 0.27
+@ 2023-02-15 21:21:00 -> limit entry order canceled
+@ 2023-02-15 21:21:00 -> Sell limit entry order placed at 24413.0 with size 0.27

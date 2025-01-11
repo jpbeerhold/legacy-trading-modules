@@ -1,0 +1,44 @@
+@ 2023-07-27 20:01:10.069924 -> Initialization Started
+@ 2023-07-27 20:01:11.337174 -> Initialization Finished
+@ 2023-07-27 20:01:11.337218 -> Starting Bot. All Parameters:
+@ 2023-07-27 20:01:11.337257 -> distance_percent: 1.5
+@ 2023-07-27 20:01:11.337291 -> sma length(): 20
+@ 2023-07-27 20:01:11.337323 -> stop_loss_distance_multiplier: 1
+@ 2023-07-27 20:01:11.337358 -> take_profit_distance_multiplier: 0.2
+@ 2023-07-27 20:01:11.337393 -> daily_iqr_inputs: (7, 1440)
+@ 2023-07-27 20:01:11.337425 -> timestamp_vola_iqr_avg_empty_fragment: 1585132500
+@ 2023-07-27 20:01:11.337457 -> number_back_use_close: 0
+@ 2023-08-01 02:10:51.756136 -> Starting termination
+@ 2023-08-01 02:10:53.771681 -> Exception:
+Traceback (most recent call last):
+  File "/home/Bybit/DoSe/4582/strategy_execution/strategy_exe_DoSe4582.py", line 90, in run_everything
+    raise thread_B.exception()
+  File "/usr/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "/home/Bybit/DoSe/4582/strategy_execution/strategy_exe_DoSe4582.py", line 62, in thread__strategy
+    strategy.strategy_main()
+  File "/home/Bybit/DoSe/4582/strategy_execution/../strategy_execution/strategy.py", line 327, in strategy_main
+    cPT = create_PositionTrade(t+(time_frame*60))
+  File "/home/Bybit/DoSe/4582/strategy_execution/../strategy_execution/strategy.py", line 124, in create_PositionTrade
+    stop_loss_take_profit = position_trade.place_stop_loss_and_take_profit()
+  File "/home/Bybit/DoSe/4582/strategy_execution/../market_insertion/filling_and_orders_manager.py", line 425, in place_stop_loss_and_take_profit
+    filling_state = __check_stop_loss_hit_and_take_profit_fill(counter)
+  File "/home/Bybit/DoSe/4582/strategy_execution/../market_insertion/filling_and_orders_manager.py", line 387, in __check_stop_loss_hit_and_take_profit_fill
+    sl_filling = stop_loss_filling.start_stop_loss_filling(self.final_stop_loss_side, self.final_stop_loss_price, self.final_entry_filled_size, self.final_risk_value_ticks)
+  File "/home/Bybit/DoSe/4582/strategy_execution/../market_insertion/stop_loss_filling.py", line 67, in start_stop_loss_filling
+    stop_loss_result = abs_volatility_stop_loss.begin(stop_loss_result[1])
+  File "/home/Bybit/DoSe/4582/strategy_execution/../market_insertion/stop_loss_filling.py", line 335, in begin
+    cancel_order = self.__cancel_limit_sl_order()
+  File "/home/Bybit/DoSe/4582/strategy_execution/../market_insertion/stop_loss_filling.py", line 231, in __cancel_limit_sl_order
+    bybit_usdt_perp_client.cancel_order(self.stop_loss_limit_order_id)
+  File "/home/Bybit/DoSe/4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 1207, in cancel_order
+    v5_rest_client.cancel_order(order_link_id)
+  File "/home/Bybit/DoSe/4582/strategy_execution/../Bybit_Access/bybit_usdt_perp_client.py", line 945, in cancel_order
+    cancel = self.instance.cancel_order(
+  File "/home/Bybit/pybit/_v5_trade.py", line 65, in cancel_order
+    return self._submit_request(
+  File "/home/Bybit/pybit/_http_manager.py", line 344, in _submit_request
+    raise InvalidRequestError(
+pybit.exceptions.InvalidRequestError: params error: OrderId or orderLinkId is required (ErrCode: 10001) (ErrTime: 02:10:51).
+Request → POST https://api.bytick.com/v5/order/cancel: {"category": "linear", "symbol": "BTCUSDT", "orderLinkId": null}.
+
