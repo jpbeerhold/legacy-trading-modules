@@ -1,0 +1,65 @@
+Generating ohlc data
+Trading data very first timestamp: 1585132572.982200
+Trading data very last timestamp: 1691107139.120800
+Ohlc data very first timestamp: 1585132560.000000
+Ohlc data very last timestamp: 1691107080.000000
+Load data in seconds: 281.222039
+Load data in minutes: 4.687034
+Trading data size: 181718251
+Ohlc data size: 1766243
+
+Number backtests for 1-20000.txt: 20000
+Backtesting duration in seconds: 1165.151690
+Backtesting duration in minutes: 19.419195
+bt_results/ size in bytes: 297322303
+bt_results/ size in gigabytes: 0.297322
+Analysing and deletion duration for 1-20000.txt in seconds: 2.416868
+
+Number backtests for 100001-120000.txt: 20000
+Backtesting duration in seconds: 1376.955370
+Backtesting duration in minutes: 22.949256
+bt_results/ size in bytes: 1028363015
+bt_results/ size in gigabytes: 1.028363
+Analysing and deletion duration for 100001-120000.txt in seconds: 11.889203
+
+Number backtests for 120001-140000.txt: 20000
+Backtesting duration in seconds: 1403.907289
+Backtesting duration in minutes: 23.398455
+bt_results/ size in bytes: 1070657356
+bt_results/ size in gigabytes: 1.070657
+Analysing and deletion duration for 120001-140000.txt in seconds: 9.693887
+
+Number backtests for 140001-151200.txt: 11200
+Backtesting duration in seconds: 731.803960
+Backtesting duration in minutes: 12.196733
+bt_results/ size in bytes: 379564039
+bt_results/ size in gigabytes: 0.379564
+Analysing and deletion duration for 140001-151200.txt in seconds: 2.115117
+
+Number backtests for 20001-40000.txt: 20000
+Backtesting duration in seconds: 1234.955655
+Backtesting duration in minutes: 20.582594
+bt_results/ size in bytes: 587884507
+bt_results/ size in gigabytes: 0.587885
+Analysing and deletion duration for 20001-40000.txt in seconds: 5.348890
+
+Number backtests for 40001-60000.txt: 20000
+Backtesting duration in seconds: 1277.941723
+Backtesting duration in minutes: 21.299029
+bt_results/ size in bytes: 718137169
+bt_results/ size in gigabytes: 0.718137
+Analysing and deletion duration for 40001-60000.txt in seconds: 7.173814
+
+Number backtests for 60001-80000.txt: 20000
+Backtesting duration in seconds: 1314.349751
+Backtesting duration in minutes: 21.905829
+bt_results/ size in bytes: 841895743
+bt_results/ size in gigabytes: 0.841896
+Analysing and deletion duration for 60001-80000.txt in seconds: 8.904610
+
+Number backtests for 80001-100000.txt: 20000
+Backtesting duration in seconds: 1348.455775
+Backtesting duration in minutes: 22.474263
+bt_results/ size in bytes: 933075268
+bt_results/ size in gigabytes: 0.933075
+Analysing and deletion duration for 80001-100000.txt in seconds: 9.617239
