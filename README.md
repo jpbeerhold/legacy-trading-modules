@@ -6,4 +6,4 @@
 
 A comprehensive visualization:
 
-<img src="trading-system_activity-diagram.png" alt="Trading System Diagram" width="250">
+<img src="trading-system_activity-diagram.png" alt="Trading System Diagram" width="350">
